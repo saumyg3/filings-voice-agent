@@ -1,919 +1,473 @@
 NVIDIA fiscal 2025 10-K: financial tables rewritten as sentences
 
-NVIDIA fiscal 2025 10-K, (Exact name of registrant as specified in its charter). 2788 San Tomas Expressway , Santa Clara , California: 95051.
+NVIDIA fiscal 2025 10-K, of Shares Purchased, (In millions) | (In millions) - October 28, 2024 - November 24, 2024: $25.4 million, $142.67 million, $25.4 million, $42.8 million
 
-NVIDIA fiscal 2025 10-K, Part I. Item 1. - Item 1.: 4.
+NVIDIA fiscal 2025 10-K, of Shares Purchased, (In millions) | (In millions) - November 25, 2024 - December 22, 2024: $10.6 million, $136.86 million, $10.6 million, $41.4 million
 
-NVIDIA fiscal 2025 10-K, Part I. Item 1A. - Item 1A.: 13.
+NVIDIA fiscal 2025 10-K, of Shares Purchased, (In millions) | (In millions) - December 23, 2024 - January 26, 2025: $19.3 million, $139.30 million, $19.3 million, $38.7 million
 
-NVIDIA fiscal 2025 10-K, Part I. Item 1B. - Item 1B.: 32.
+NVIDIA fiscal 2025 10-K, of Shares Purchased, (In millions) | (In millions) - Total: $55.3 million, $55.3 million
 
-NVIDIA fiscal 2025 10-K, Part I. Item 1C - Item 1C: 32.
+NVIDIA fiscal 2025 10-K, ($ in millions, except per share data) | Revenue: fiscal year ended Jan 26, 2025: $130,497 million; fiscal year ended Jan 28, 2024: $60,922 million
 
-NVIDIA fiscal 2025 10-K, Part I. Item 2. - Item 2.: 33.
+NVIDIA fiscal 2025 10-K, ($ in millions, except per share data) | Gross margin: fiscal year ended Jan 26, 2025: 75.0%; fiscal year ended Jan 28, 2024: 72.7%
 
-NVIDIA fiscal 2025 10-K, Part I. Item 3. - Item 3.: 33.
+NVIDIA fiscal 2025 10-K, ($ in millions, except per share data) | Operating expenses: fiscal year ended Jan 26, 2025: $16,405 million; fiscal year ended Jan 28, 2024: $11,329 million
 
-NVIDIA fiscal 2025 10-K, Part I. Item 4. - Item 4.: 33.
+NVIDIA fiscal 2025 10-K, ($ in millions, except per share data) | Operating income: fiscal year ended Jan 26, 2025: $81,453 million; fiscal year ended Jan 28, 2024: $32,972 million
 
-NVIDIA fiscal 2025 10-K, Part I. Item 5. - Item 5.: 33.
+NVIDIA fiscal 2025 10-K, ($ in millions, except per share data) | Net income: fiscal year ended Jan 26, 2025: $72,880 million; fiscal year ended Jan 28, 2024: $29,760 million
 
-NVIDIA fiscal 2025 10-K, Part I. Item 6. - Item 6.: 35.
+NVIDIA fiscal 2025 10-K, ($ in millions, except per share data) | Net income per diluted share: fiscal year ended Jan 26, 2025: $2.94 million; fiscal year ended Jan 28, 2024: $1.19 million
 
-NVIDIA fiscal 2025 10-K, Part I. Item 7. - Item 7.: 36.
+NVIDIA fiscal 2025 10-K,  | Revenue: fiscal year ended Jan 26, 2025: 100.0%; fiscal year ended Jan 28, 2024: 100.0%
 
-NVIDIA fiscal 2025 10-K, Part I. Item 7A. - Item 7A.: 45.
+NVIDIA fiscal 2025 10-K, Operating expenses | Net income: fiscal year ended Jan 26, 2025: 55.8%; fiscal year ended Jan 28, 2024: 48.9%
 
-NVIDIA fiscal 2025 10-K, Part I. Item 8. - Item 8.: 46.
+NVIDIA fiscal 2025 10-K, Revenue by Reportable Segments, ($ in millions) | Compute & Networking: $116,193 million, $47,405 million, $68,788 million, 145%
 
-NVIDIA fiscal 2025 10-K, Part I. Item 9. - Item 9.: 46.
+NVIDIA fiscal 2025 10-K, Revenue by Reportable Segments, ($ in millions) | Graphics: $14,304 million, $13,517 million, $787 million, 6%
 
-NVIDIA fiscal 2025 10-K, Part I. Item 9A. - Item 9A.: 46.
+NVIDIA fiscal 2025 10-K, Revenue by Reportable Segments, ($ in millions) | Total: $130,497 million, $60,922 million, $69,575 million, 114%
 
-NVIDIA fiscal 2025 10-K, Part I. Item 9B. - Item 9B.: 47.
+NVIDIA fiscal 2025 10-K, Operating Income by Reportable Segments, ($ in millions) | Compute & Networking: $82,875 million, $32,016 million, $50,859 million, 159%
 
-NVIDIA fiscal 2025 10-K, Part I. Item 9C. - Item 9C.: 47.
+NVIDIA fiscal 2025 10-K, Operating Income by Reportable Segments, ($ in millions) | Graphics: $5,085 million, $5,846 million, $(761) million, (13)%
 
-NVIDIA fiscal 2025 10-K, Part I. Item 10. - Item 10.: 47.
+NVIDIA fiscal 2025 10-K, Operating Income by Reportable Segments, ($ in millions) | All Other: $(6,507) million, $(4,890) million, $(1,617) million, 33%
 
-NVIDIA fiscal 2025 10-K, Part I. Item 11. - Item 11.: 48.
+NVIDIA fiscal 2025 10-K, Operating Income by Reportable Segments, ($ in millions) | Total: $81,453 million, $32,972 million, $48,481 million, 147%
 
-NVIDIA fiscal 2025 10-K, Part I. Item 12. - Item 12.: 48.
+NVIDIA fiscal 2025 10-K,  | Direct Customer A: fiscal year ended Jan 26, 2025: 12%; fiscal year ended Jan 28, 2024: *
 
-NVIDIA fiscal 2025 10-K, Part I. Item 13. - Item 13.: 48.
+NVIDIA fiscal 2025 10-K,  | Direct Customer B: fiscal year ended Jan 26, 2025: 11%; fiscal year ended Jan 28, 2024: 13%
 
-NVIDIA fiscal 2025 10-K, Part I. Item 14. - Item 14.: 48.
+NVIDIA fiscal 2025 10-K,  | Direct Customer C: fiscal year ended Jan 26, 2025: 11%; fiscal year ended Jan 28, 2024: *
 
-NVIDIA fiscal 2025 10-K, Part IV. Item 15. - Item 15.: 49.
+NVIDIA fiscal 2025 10-K,  | Change - Research and development expenses: 12,914, 8,675, 4,239, 49%
 
-NVIDIA fiscal 2025 10-K, Part IV. Item 16. - Item 16.: 85.
+NVIDIA fiscal 2025 10-K,  | Change - % of net revenue: 9.9%, 14.2%
 
-NVIDIA fiscal 2025 10-K, Part IV. Signatures: 86.
+NVIDIA fiscal 2025 10-K,  | Change - Sales, general and administrative expenses: 3,491, 2,654, 837, 32%
 
-NVIDIA fiscal 2025 10-K, Information About Our Executive Officers, The following sets forth certain information regarding our executive officers, their ages, and positions as of February 21, 2025:. Name - Jen-Hsun Huang: 62.
+NVIDIA fiscal 2025 10-K,  | Change - % of net revenue: 2.7%, 4.4%
 
-NVIDIA fiscal 2025 10-K, Information About Our Executive Officers, The following sets forth certain information regarding our executive officers, their ages, and positions as of February 21, 2025:. Name - Colette M. Kress: 57.
+NVIDIA fiscal 2025 10-K,  | Change - Total operating expenses: 16,405, 11,329, 5,076, 45%
 
-NVIDIA fiscal 2025 10-K, Information About Our Executive Officers, The following sets forth certain information regarding our executive officers, their ages, and positions as of February 21, 2025:. Name - Ajay K. Puri: 70.
+NVIDIA fiscal 2025 10-K,  | Change - % of net revenue: 12.6%, 18.6%
 
-NVIDIA fiscal 2025 10-K, Information About Our Executive Officers, The following sets forth certain information regarding our executive officers, their ages, and positions as of February 21, 2025:. Name - Debora Shoquist: 70.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Income, (In millions, except per share data) | Revenue: fiscal year ended Jan 26, 2025: $130,497 million; fiscal year ended Jan 28, 2024: $60,922 million; fiscal year ended Jan 29, 2023: $26,974 million
 
-NVIDIA fiscal 2025 10-K, Information About Our Executive Officers, The following sets forth certain information regarding our executive officers, their ages, and positions as of February 21, 2025:. Name - Timothy S. Teter: 58.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Income, (In millions, except per share data) | Cost of revenue: fiscal year ended Jan 26, 2025: $32,639 million; fiscal year ended Jan 28, 2024: $16,621 million; fiscal year ended Jan 29, 2023: $11,618 million
 
-NVIDIA fiscal 2025 10-K, The following table presents details of our share repurchase transactions during the fourth quarter of fiscal year 2025:, of Shares Purchased. (In millions) - October 28, 2024 - November 24, 2024: 25.4, 142.67, 25.4, 42.8.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Income, (In millions, except per share data) | Gross profit: fiscal year ended Jan 26, 2025: $97,858 million; fiscal year ended Jan 28, 2024: $44,301 million; fiscal year ended Jan 29, 2023: $15,356 million
 
-NVIDIA fiscal 2025 10-K, The following table presents details of our share repurchase transactions during the fourth quarter of fiscal year 2025:, of Shares Purchased. (In millions) - November 25, 2024 - December 22, 2024: 10.6, 136.86, 10.6, 41.4.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Income, (In millions, except per share data), Operating expenses | Research and development: fiscal year ended Jan 26, 2025: $12,914 million; fiscal year ended Jan 28, 2024: $8,675 million; fiscal year ended Jan 29, 2023: $7,339 million
 
-NVIDIA fiscal 2025 10-K, The following table presents details of our share repurchase transactions during the fourth quarter of fiscal year 2025:, of Shares Purchased. (In millions) - December 23, 2024 - January 26, 2025: 19.3, 139.30, 19.3, 38.7.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Income, (In millions, except per share data), Operating expenses | Sales, general and administrative: fiscal year ended Jan 26, 2025: $3,491 million; fiscal year ended Jan 28, 2024: $2,654 million; fiscal year ended Jan 29, 2023: $2,440 million
 
-NVIDIA fiscal 2025 10-K, The following table presents details of our share repurchase transactions during the fourth quarter of fiscal year 2025:, of Shares Purchased. (In millions) - Total: 55.3, 55.3.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Income, (In millions, except per share data), Operating expenses | Acquisition termination cost: fiscal year ended Jan 26, 2025: —; fiscal year ended Jan 28, 2024: —; fiscal year ended Jan 29, 2023: $1,353 million
 
-NVIDIA fiscal 2025 10-K, *$100 invested on 1/26/2020 in stock and in indices, including reinvestment of dividends.. Source: FactSet financial data and analytics. - NVIDIA Corporation: 100.00, 207.79, 365.66, 326.34, 978.42, 2,287.06.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Income, (In millions, except per share data), Operating expenses | Total operating expenses: fiscal year ended Jan 26, 2025: $16,405 million; fiscal year ended Jan 28, 2024: $11,329 million; fiscal year ended Jan 29, 2023: $11,132 million
 
-NVIDIA fiscal 2025 10-K, *$100 invested on 1/26/2020 in stock and in indices, including reinvestment of dividends.. Source: FactSet financial data and analytics. - S&P 500: 100.00, 114.79, 138.90, 129.69, 158.39, 200.32.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Income, (In millions, except per share data), Operating expenses | Operating income: fiscal year ended Jan 26, 2025: $81,453 million; fiscal year ended Jan 28, 2024: $32,972 million; fiscal year ended Jan 29, 2023: $4,224 million
 
-NVIDIA fiscal 2025 10-K, *$100 invested on 1/26/2020 in stock and in indices, including reinvestment of dividends.. Source: FactSet financial data and analytics. - Nasdaq 100: 100.00, 142.64, 160.62, 136.37, 196.94, 248.12.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Income, (In millions, except per share data), Operating expenses | Interest income: fiscal year ended Jan 26, 2025: $1,786 million; fiscal year ended Jan 28, 2024: $866 million; fiscal year ended Jan 29, 2023: $267 million
 
-NVIDIA fiscal 2025 10-K, ($ in millions, except per share data). Revenue: fiscal year ended Jan 26, 2025: $130,497 million; fiscal year ended Jan 28, 2024: $60,922 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Income, (In millions, except per share data), Operating expenses | Interest expense: fiscal year ended Jan 26, 2025: $(247) million; fiscal year ended Jan 28, 2024: $(257) million; fiscal year ended Jan 29, 2023: $(262) million
 
-NVIDIA fiscal 2025 10-K, ($ in millions, except per share data). Gross margin: fiscal year ended Jan 26, 2025: 75.0%; fiscal year ended Jan 28, 2024: 72.7%.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Income, (In millions, except per share data), Operating expenses | Other, net: fiscal year ended Jan 26, 2025: $1,034 million; fiscal year ended Jan 28, 2024: $237 million; fiscal year ended Jan 29, 2023: $(48) million
 
-NVIDIA fiscal 2025 10-K, ($ in millions, except per share data). Operating expenses: fiscal year ended Jan 26, 2025: $16,405 million; fiscal year ended Jan 28, 2024: $11,329 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Income, (In millions, except per share data), Operating expenses | Other income (expense), net: fiscal year ended Jan 26, 2025: $2,573 million; fiscal year ended Jan 28, 2024: $846 million; fiscal year ended Jan 29, 2023: $(43) million
 
-NVIDIA fiscal 2025 10-K, ($ in millions, except per share data). Operating income: fiscal year ended Jan 26, 2025: $81,453 million; fiscal year ended Jan 28, 2024: $32,972 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Income, (In millions, except per share data), Operating expenses | Income before income tax: fiscal year ended Jan 26, 2025: $84,026 million; fiscal year ended Jan 28, 2024: $33,818 million; fiscal year ended Jan 29, 2023: $4,181 million
 
-NVIDIA fiscal 2025 10-K, ($ in millions, except per share data). Net income: fiscal year ended Jan 26, 2025: $72,880 million; fiscal year ended Jan 28, 2024: $29,760 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Income, (In millions, except per share data), Operating expenses | Income tax expense (benefit): fiscal year ended Jan 26, 2025: $11,146 million; fiscal year ended Jan 28, 2024: $4,058 million; fiscal year ended Jan 29, 2023: $(187) million
 
-NVIDIA fiscal 2025 10-K, ($ in millions, except per share data). Net income per diluted share: fiscal year ended Jan 26, 2025: $2.94 million; fiscal year ended Jan 28, 2024: $1.19 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Income, (In millions, except per share data), Operating expenses | Net income: fiscal year ended Jan 26, 2025: $72,880 million; fiscal year ended Jan 28, 2024: $29,760 million; fiscal year ended Jan 29, 2023: $4,368 million
 
-NVIDIA fiscal 2025 10-K, The following table sets forth, for the periods indicated, certain items in our Consolidated Statements of Income expressed as a percentage of revenue.. Revenue: fiscal year ended Jan 26, 2025: 100.0%; fiscal year ended Jan 28, 2024: 100.0%.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Income, Operating expenses, Net income per share: | Basic: fiscal year ended Jan 26, 2025: $2.97 million; fiscal year ended Jan 28, 2024: $1.21 million; fiscal year ended Jan 29, 2023: $0.18 million
 
-NVIDIA fiscal 2025 10-K, The following table sets forth, for the periods indicated, certain items in our Consolidated Statements of Income expressed as a percentage of revenue.. Cost of revenue: fiscal year ended Jan 26, 2025: 25.0; fiscal year ended Jan 28, 2024: 27.3.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Income, Operating expenses, Net income per share: | Diluted: fiscal year ended Jan 26, 2025: $2.94 million; fiscal year ended Jan 28, 2024: $1.19 million; fiscal year ended Jan 29, 2023: $0.17 million
 
-NVIDIA fiscal 2025 10-K, The following table sets forth, for the periods indicated, certain items in our Consolidated Statements of Income expressed as a percentage of revenue.. Gross profit: fiscal year ended Jan 26, 2025: 75.0; fiscal year ended Jan 28, 2024: 72.7.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Income, Net income per share:, Weighted average shares used in per share computation: | Basic: fiscal year ended Jan 26, 2025: $24,555 million; fiscal year ended Jan 28, 2024: $24,690 million; fiscal year ended Jan 29, 2023: $24,870 million
 
-NVIDIA fiscal 2025 10-K, The following table sets forth, for the periods indicated, certain items in our Consolidated Statements of Income expressed as a percentage of revenue., Operating expenses. Research and development: fiscal year ended Jan 26, 2025: 9.9; fiscal year ended Jan 28, 2024: 14.2.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Income, Net income per share:, Weighted average shares used in per share computation: | Diluted: fiscal year ended Jan 26, 2025: $24,804 million; fiscal year ended Jan 28, 2024: $24,940 million; fiscal year ended Jan 29, 2023: $25,070 million
 
-NVIDIA fiscal 2025 10-K, The following table sets forth, for the periods indicated, certain items in our Consolidated Statements of Income expressed as a percentage of revenue., Operating expenses. Sales, general and administrative: fiscal year ended Jan 26, 2025: 2.7; fiscal year ended Jan 28, 2024: 4.4.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Comprehensive Income, (In millions) | Net income: fiscal year ended Jan 26, 2025: $72,880 million; fiscal year ended Jan 28, 2024: $29,760 million; fiscal year ended Jan 29, 2023: $4,368 million
 
-NVIDIA fiscal 2025 10-K, The following table sets forth, for the periods indicated, certain items in our Consolidated Statements of Income expressed as a percentage of revenue., Operating expenses. Total operating expenses: fiscal year ended Jan 26, 2025: 12.6; fiscal year ended Jan 28, 2024: 18.6.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Comprehensive Income, Other comprehensive income (loss), net of tax, Available-for-sale securities: | Net change in unrealized gain (loss): fiscal year ended Jan 26, 2025: $1 million; fiscal year ended Jan 28, 2024: $80 million; fiscal year ended Jan 29, 2023: $(31) million
 
-NVIDIA fiscal 2025 10-K, The following table sets forth, for the periods indicated, certain items in our Consolidated Statements of Income expressed as a percentage of revenue., Operating expenses. Operating income: fiscal year ended Jan 26, 2025: 62.4; fiscal year ended Jan 28, 2024: 54.1.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Comprehensive Income, Other comprehensive income (loss), net of tax, Available-for-sale securities: | Reclassification adjustments for net realized gain included in net income: fiscal year ended Jan 26, 2025: —; fiscal year ended Jan 28, 2024: —; fiscal year ended Jan 29, 2023: $1 million
 
-NVIDIA fiscal 2025 10-K, The following table sets forth, for the periods indicated, certain items in our Consolidated Statements of Income expressed as a percentage of revenue., Operating expenses. Interest income: fiscal year ended Jan 26, 2025: 1.4; fiscal year ended Jan 28, 2024: 1.4.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Comprehensive Income, Other comprehensive income (loss), net of tax, Available-for-sale securities: | Net change in unrealized gain (loss): fiscal year ended Jan 26, 2025: $1 million; fiscal year ended Jan 28, 2024: $80 million; fiscal year ended Jan 29, 2023: $(30) million
 
-NVIDIA fiscal 2025 10-K, The following table sets forth, for the periods indicated, certain items in our Consolidated Statements of Income expressed as a percentage of revenue., Operating expenses. Interest expense: fiscal year ended Jan 26, 2025: (0.2); fiscal year ended Jan 28, 2024: (0.4).
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Comprehensive Income, Available-for-sale securities:, Cash flow hedges: | Net change in unrealized gain: fiscal year ended Jan 26, 2025: $21 million; fiscal year ended Jan 28, 2024: $38 million; fiscal year ended Jan 29, 2023: $47 million
 
-NVIDIA fiscal 2025 10-K, The following table sets forth, for the periods indicated, certain items in our Consolidated Statements of Income expressed as a percentage of revenue., Operating expenses. Other, net: fiscal year ended Jan 26, 2025: 0.8; fiscal year ended Jan 28, 2024: 0.4.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Comprehensive Income, Available-for-sale securities:, Cash flow hedges: | Reclassification adjustments for net realized loss included in net income: fiscal year ended Jan 26, 2025: $(21) million; fiscal year ended Jan 28, 2024: $(48) million; fiscal year ended Jan 29, 2023: $(49) million
 
-NVIDIA fiscal 2025 10-K, The following table sets forth, for the periods indicated, certain items in our Consolidated Statements of Income expressed as a percentage of revenue., Operating expenses. Other income (expense), net: fiscal year ended Jan 26, 2025: 2.0; fiscal year ended Jan 28, 2024: 1.4.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Comprehensive Income, Available-for-sale securities:, Cash flow hedges: | Net change in unrealized loss: fiscal year ended Jan 26, 2025: —; fiscal year ended Jan 28, 2024: $(10) million; fiscal year ended Jan 29, 2023: $(2) million
 
-NVIDIA fiscal 2025 10-K, The following table sets forth, for the periods indicated, certain items in our Consolidated Statements of Income expressed as a percentage of revenue., Operating expenses. Income before income tax: fiscal year ended Jan 26, 2025: 64.4; fiscal year ended Jan 28, 2024: 55.5.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Comprehensive Income, Available-for-sale securities:, Cash flow hedges: | Other comprehensive income (loss), net of tax: fiscal year ended Jan 26, 2025: $1 million; fiscal year ended Jan 28, 2024: $70 million; fiscal year ended Jan 29, 2023: $(32) million
 
-NVIDIA fiscal 2025 10-K, The following table sets forth, for the periods indicated, certain items in our Consolidated Statements of Income expressed as a percentage of revenue., Operating expenses. Income tax expense: fiscal year ended Jan 26, 2025: 8.6; fiscal year ended Jan 28, 2024: 6.6.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Comprehensive Income, Available-for-sale securities:, Cash flow hedges: | Total comprehensive income: fiscal year ended Jan 26, 2025: $72,881 million; fiscal year ended Jan 28, 2024: $29,830 million; fiscal year ended Jan 29, 2023: $4,336 million
 
-NVIDIA fiscal 2025 10-K, The following table sets forth, for the periods indicated, certain items in our Consolidated Statements of Income expressed as a percentage of revenue., Operating expenses. Net income: fiscal year ended Jan 26, 2025: 55.8%; fiscal year ended Jan 28, 2024: 48.9%.
+NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Assets, Current assets: | Cash and cash equivalents: fiscal year ended Jan 26, 2025: $8,589 million; fiscal year ended Jan 28, 2024: $7,280 million
 
-NVIDIA fiscal 2025 10-K, Revenue by Reportable Segments, ($ in millions). Compute & Networking: $116,193 million, $47,405 million, $68,788 million, 145%.
+NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Assets, Current assets: | Marketable securities: fiscal year ended Jan 26, 2025: $34,621 million; fiscal year ended Jan 28, 2024: $18,704 million
 
-NVIDIA fiscal 2025 10-K, Revenue by Reportable Segments, ($ in millions). Graphics: $14,304 million, $13,517 million, $787 million, 6%.
+NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Assets, Current assets: | Accounts receivable, net: fiscal year ended Jan 26, 2025: $23,065 million; fiscal year ended Jan 28, 2024: $9,999 million
 
-NVIDIA fiscal 2025 10-K, Revenue by Reportable Segments, ($ in millions). Total: $130,497 million, $60,922 million, $69,575 million, 114%.
+NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Assets, Current assets: | Inventories: fiscal year ended Jan 26, 2025: $10,080 million; fiscal year ended Jan 28, 2024: $5,282 million
 
-NVIDIA fiscal 2025 10-K, Operating Income by Reportable Segments, ($ in millions). Compute & Networking: $82,875 million, $32,016 million, $50,859 million, 159%.
+NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Assets, Current assets: | Prepaid expenses and other current assets: fiscal year ended Jan 26, 2025: $3,771 million; fiscal year ended Jan 28, 2024: $3,080 million
 
-NVIDIA fiscal 2025 10-K, Operating Income by Reportable Segments, ($ in millions). Graphics: $5,085 million, $5,846 million, $(761) million, (13)%.
+NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Assets, Current assets: | Total current assets: fiscal year ended Jan 26, 2025: $80,126 million; fiscal year ended Jan 28, 2024: $44,345 million
 
-NVIDIA fiscal 2025 10-K, Operating Income by Reportable Segments, ($ in millions). All Other: $(6,507) million, $(4,890) million, $(1,617) million, 33%.
+NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Assets, Current assets: | Property and equipment, net: fiscal year ended Jan 26, 2025: $6,283 million; fiscal year ended Jan 28, 2024: $3,914 million
 
-NVIDIA fiscal 2025 10-K, Operating Income by Reportable Segments, ($ in millions). Total: $81,453 million, $32,972 million, $48,481 million, 147%.
+NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Assets, Current assets: | Operating lease assets: fiscal year ended Jan 26, 2025: $1,793 million; fiscal year ended Jan 28, 2024: $1,346 million
 
-NVIDIA fiscal 2025 10-K, . Direct Customer A: fiscal year ended Jan 26, 2025: 12%; fiscal year ended Jan 28, 2024: *.
+NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Assets, Current assets: | Goodwill: fiscal year ended Jan 26, 2025: $5,188 million; fiscal year ended Jan 28, 2024: $4,430 million
 
-NVIDIA fiscal 2025 10-K, . Direct Customer B: fiscal year ended Jan 26, 2025: 11%; fiscal year ended Jan 28, 2024: 13%.
+NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Assets, Current assets: | Intangible assets, net: fiscal year ended Jan 26, 2025: $807 million; fiscal year ended Jan 28, 2024: $1,112 million
 
-NVIDIA fiscal 2025 10-K, . Direct Customer C: fiscal year ended Jan 26, 2025: 11%; fiscal year ended Jan 28, 2024: *.
+NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Assets, Current assets: | Deferred income tax assets: fiscal year ended Jan 26, 2025: $10,979 million; fiscal year ended Jan 28, 2024: $6,081 million
 
-NVIDIA fiscal 2025 10-K, . Change - Research and development expenses: 12,914, 8,675, 4,239, 49%.
+NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Assets, Current assets: | Other assets: fiscal year ended Jan 26, 2025: $6,425 million; fiscal year ended Jan 28, 2024: $4,500 million
 
-NVIDIA fiscal 2025 10-K, . Change - % of net revenue: 9.9%, 14.2%.
+NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Assets, Current assets: | Total assets: fiscal year ended Jan 26, 2025: $111,601 million; fiscal year ended Jan 28, 2024: $65,728 million
 
-NVIDIA fiscal 2025 10-K, . Change - Sales, general and administrative expenses: 3,491, 2,654, 837, 32%.
+NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Liabilities and Shareholders' Equity, Current liabilities: | Accounts payable: fiscal year ended Jan 26, 2025: $6,310 million; fiscal year ended Jan 28, 2024: $2,699 million
 
-NVIDIA fiscal 2025 10-K, . Change - % of net revenue: 2.7%, 4.4%.
+NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Liabilities and Shareholders' Equity, Current liabilities: | Accrued and other current liabilities: fiscal year ended Jan 26, 2025: $11,737 million; fiscal year ended Jan 28, 2024: $6,682 million
 
-NVIDIA fiscal 2025 10-K, . Change - Total operating expenses: 16,405, 11,329, 5,076, 45%.
+NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Liabilities and Shareholders' Equity, Current liabilities: | Short-term debt: fiscal year ended Jan 26, 2025: —; fiscal year ended Jan 28, 2024: $1,250 million
 
-NVIDIA fiscal 2025 10-K, . Change - % of net revenue: 12.6%, 18.6%.
+NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Liabilities and Shareholders' Equity, Current liabilities: | Total current liabilities: fiscal year ended Jan 26, 2025: $18,047 million; fiscal year ended Jan 28, 2024: $10,631 million
 
-NVIDIA fiscal 2025 10-K, . Change - Interest income: fiscal year ended Jan 26, 2025: 1,786; fiscal year ended Jan 28, 2024: 866.
+NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Liabilities and Shareholders' Equity, Current liabilities: | Long-term debt: fiscal year ended Jan 26, 2025: $8,463 million; fiscal year ended Jan 28, 2024: $8,459 million
 
-NVIDIA fiscal 2025 10-K, . Change - Interest expense: fiscal year ended Jan 26, 2025: (247); fiscal year ended Jan 28, 2024: (257).
+NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Liabilities and Shareholders' Equity, Current liabilities: | Long-term operating lease liabilities: fiscal year ended Jan 26, 2025: $1,519 million; fiscal year ended Jan 28, 2024: $1,119 million
 
-NVIDIA fiscal 2025 10-K, . Change - Other, net: fiscal year ended Jan 26, 2025: 1,034; fiscal year ended Jan 28, 2024: 237.
+NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Liabilities and Shareholders' Equity, Current liabilities: | Other long-term liabilities: fiscal year ended Jan 26, 2025: $4,245 million; fiscal year ended Jan 28, 2024: $2,541 million
 
-NVIDIA fiscal 2025 10-K, . Change - Other income (expense), net: fiscal year ended Jan 26, 2025: 2,573; fiscal year ended Jan 28, 2024: 846.
+NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Liabilities and Shareholders' Equity, Current liabilities: | Total liabilities: fiscal year ended Jan 26, 2025: $32,274 million; fiscal year ended Jan 28, 2024: $22,750 million
 
-NVIDIA fiscal 2025 10-K, . Liquidity and Capital Resources - Cash and cash equivalents: fiscal year ended Jan 26, 2025: 8,589; fiscal year ended Jan 28, 2024: 7,280.
+NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Current liabilities: | Commitments and contingencies - see Note 12: fiscal year ended Jan 26, 2025: —; fiscal year ended Jan 28, 2024: —
 
-NVIDIA fiscal 2025 10-K, . Liquidity and Capital Resources - Marketable securities: fiscal year ended Jan 26, 2025: 34,621; fiscal year ended Jan 28, 2024: 18,704.
+NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Shareholders’ equity: | Preferred stock, $ 0.001 par value; 20 shares authorized; none issued: fiscal year ended Jan 26, 2025: —; fiscal year ended Jan 28, 2024: —
 
-NVIDIA fiscal 2025 10-K, . Liquidity and Capital Resources - Cash, cash equivalents, and marketable securities: fiscal year ended Jan 26, 2025: 43,210; fiscal year ended Jan 28, 2024: 25,984.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data) | Balances as of Jan 30, 2022: $25,064 million, $26 million, $10,362 million, $(11) million, $16,235 million, $26,612 million
 
-NVIDIA fiscal 2025 10-K, . Liquidity and Capital Resources - Net cash provided by operating activities: fiscal year ended Jan 26, 2025: 64,089; fiscal year ended Jan 28, 2024: 28,090.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data) | Net income: —, —, —, —, $4,368 million, $4,368 million
 
-NVIDIA fiscal 2025 10-K, . Liquidity and Capital Resources - Net cash used in investing activities: fiscal year ended Jan 26, 2025: (20,421); fiscal year ended Jan 28, 2024: (10,566).
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data) | Other comprehensive loss: —, —, —, $(32) million, —, $(32) million
 
-NVIDIA fiscal 2025 10-K, . Liquidity and Capital Resources - Net cash used in financing activities: fiscal year ended Jan 26, 2025: (42,359); fiscal year ended Jan 28, 2024: (13,633).
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data) | Issuance of common stock from stock plans: $312 million, —, $355 million, —, —, $355 million
 
-NVIDIA fiscal 2025 10-K, Outstanding Indebtedness and Commercial Paper Program, Our aggregate debt maturities as of January 26, 2025, by year payable, are as follows:. Due in one year: fiscal year ended Jan 26, 2025: —.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data) | Tax withholding related to vesting of restricted stock units: $(82) million, —, $(1,475) million, —, —, $(1,475) million
 
-NVIDIA fiscal 2025 10-K, Outstanding Indebtedness and Commercial Paper Program, Our aggregate debt maturities as of January 26, 2025, by year payable, are as follows:. Due in one to five years: fiscal year ended Jan 26, 2025: 2,250.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data) | Shares repurchased: $(633) million, $(1) million, $(4) million, —, $(10,034) million, $(10,039) million
 
-NVIDIA fiscal 2025 10-K, Outstanding Indebtedness and Commercial Paper Program, Our aggregate debt maturities as of January 26, 2025, by year payable, are as follows:. Due in five to ten years: fiscal year ended Jan 26, 2025: 2,750.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data) | Cash dividends declared and paid ($ 0.016 per common share): —, —, —, —, $(398) million, $(398) million
 
-NVIDIA fiscal 2025 10-K, Outstanding Indebtedness and Commercial Paper Program, Our aggregate debt maturities as of January 26, 2025, by year payable, are as follows:. Due in greater than ten years: fiscal year ended Jan 26, 2025: 3,500.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data) | Stock-based compensation: —, —, $2,710 million, —, —, $2,710 million
 
-NVIDIA fiscal 2025 10-K, Outstanding Indebtedness and Commercial Paper Program, Our aggregate debt maturities as of January 26, 2025, by year payable, are as follows:. Unamortized debt discount and issuance costs: fiscal year ended Jan 26, 2025: (37).
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data) | Balances as of Jan 29, 2023: $24,661 million, $25 million, $11,948 million, $(43) million, $10,171 million, $22,101 million
 
-NVIDIA fiscal 2025 10-K, Outstanding Indebtedness and Commercial Paper Program, Our aggregate debt maturities as of January 26, 2025, by year payable, are as follows:. Net long-term carrying amount: fiscal year ended Jan 26, 2025: 8,463.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data) | Net income: —, —, —, —, $29,760 million, $29,760 million
 
-NVIDIA fiscal 2025 10-K, . Aarti Shah - Aarti Shah: 39,000.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data) | Other comprehensive income: —, —, —, $70 million, —, $70 million
 
-NVIDIA fiscal 2025 10-K, Part IV. Item 15. Exhibits and Financial Statement Schedules - Item 15. Exhibits and Financial Statement Schedules: 50.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data) | Issuance of common stock from stock plans: $265 million, —, $403 million, —, —, $403 million
 
-NVIDIA fiscal 2025 10-K, Part IV. Item 15. Exhibits and Financial Statement Schedules - Item 15. Exhibits and Financial Statement Schedules: 52.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data) | Tax withholding related to vesting of restricted stock units: $(72) million, —, $(2,783) million, —, —, $(2,783) million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Income, (In millions, except per share data). Revenue: fiscal year ended Jan 26, 2025: $130,497 million; fiscal year ended Jan 28, 2024: $60,922 million; fiscal year ended Jan 29, 2023: $26,974 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data) | Shares repurchased: $(211) million, —, $(27) million, —, $(9,719) million, $(9,746) million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Income, (In millions, except per share data). Cost of revenue: fiscal year ended Jan 26, 2025: $32,639 million; fiscal year ended Jan 28, 2024: $16,621 million; fiscal year ended Jan 29, 2023: $11,618 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data) | Cash dividends declared and paid ($ 0.016 per common share): —, —, —, —, $(395) million, $(395) million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Income, (In millions, except per share data). Gross profit: fiscal year ended Jan 26, 2025: $97,858 million; fiscal year ended Jan 28, 2024: $44,301 million; fiscal year ended Jan 29, 2023: $15,356 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data) | Stock-based compensation: —, —, $3,568 million, —, —, $3,568 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Income, (In millions, except per share data), Operating expenses. Research and development: fiscal year ended Jan 26, 2025: $12,914 million; fiscal year ended Jan 28, 2024: $8,675 million; fiscal year ended Jan 29, 2023: $7,339 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data) | Balances as of Jan 28, 2024: $24,643 million, $25 million, $13,109 million, $27 million, $29,817 million, $42,978 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Income, (In millions, except per share data), Operating expenses. Sales, general and administrative: fiscal year ended Jan 26, 2025: $3,491 million; fiscal year ended Jan 28, 2024: $2,654 million; fiscal year ended Jan 29, 2023: $2,440 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data) | Net income: —, —, —, —, $72,880 million, $72,880 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Income, (In millions, except per share data), Operating expenses. Acquisition termination cost: fiscal year ended Jan 26, 2025: —; fiscal year ended Jan 28, 2024: —; fiscal year ended Jan 29, 2023: $1,353 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data) | Other comprehensive income: —, —, —, $1 million, —, $1 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Income, (In millions, except per share data), Operating expenses. Total operating expenses: fiscal year ended Jan 26, 2025: $16,405 million; fiscal year ended Jan 28, 2024: $11,329 million; fiscal year ended Jan 29, 2023: $11,132 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data) | Issuance of common stock from stock plans: $203 million, —, $490 million, —, —, $490 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Income, (In millions, except per share data), Operating expenses. Operating income: fiscal year ended Jan 26, 2025: $81,453 million; fiscal year ended Jan 28, 2024: $32,972 million; fiscal year ended Jan 29, 2023: $4,224 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data) | Tax withholding related to vesting of restricted stock units: $(59) million, —, $(6,930) million, —, —, $(6,930) million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Income, (In millions, except per share data), Operating expenses. Interest income: fiscal year ended Jan 26, 2025: $1,786 million; fiscal year ended Jan 28, 2024: $866 million; fiscal year ended Jan 29, 2023: $267 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data) | Shares repurchased: $(310) million, $(1) million, $(189) million, —, $(33,825) million, $(34,015) million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Income, (In millions, except per share data), Operating expenses. Interest expense: fiscal year ended Jan 26, 2025: $(247) million; fiscal year ended Jan 28, 2024: $(257) million; fiscal year ended Jan 29, 2023: $(262) million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data) | Cash dividends declared and paid ($ 0.034 per common share): —, —, —, —, $(834) million, $(834) million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Income, (In millions, except per share data), Operating expenses. Other, net: fiscal year ended Jan 26, 2025: $1,034 million; fiscal year ended Jan 28, 2024: $237 million; fiscal year ended Jan 29, 2023: $(48) million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data) | Stock-based compensation: —, —, $4,757 million, —, —, $4,757 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Income, (In millions, except per share data), Operating expenses. Other income (expense), net: fiscal year ended Jan 26, 2025: $2,573 million; fiscal year ended Jan 28, 2024: $846 million; fiscal year ended Jan 29, 2023: $(43) million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data) | Balances as of Jan 26, 2025: $24,477 million, $24 million, $11,237 million, $28 million, $68,038 million, $79,327 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Income, (In millions, except per share data), Operating expenses. Income before income tax: fiscal year ended Jan 26, 2025: $84,026 million; fiscal year ended Jan 28, 2024: $33,818 million; fiscal year ended Jan 29, 2023: $4,181 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, (In millions), Cash flows from operating activities: | Net income: fiscal year ended Jan 26, 2025: $72,880 million; fiscal year ended Jan 28, 2024: $29,760 million; fiscal year ended Jan 29, 2023: $4,368 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Income, (In millions, except per share data), Operating expenses. Income tax expense (benefit): fiscal year ended Jan 26, 2025: $11,146 million; fiscal year ended Jan 28, 2024: $4,058 million; fiscal year ended Jan 29, 2023: $(187) million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Cash flows from operating activities:, Adjustments to reconcile net income to net cash provided by operating activities: | Stock-based compensation expense: fiscal year ended Jan 26, 2025: $4,737 million; fiscal year ended Jan 28, 2024: $3,549 million; fiscal year ended Jan 29, 2023: $2,709 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Income, (In millions, except per share data), Operating expenses. Net income: fiscal year ended Jan 26, 2025: $72,880 million; fiscal year ended Jan 28, 2024: $29,760 million; fiscal year ended Jan 29, 2023: $4,368 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Cash flows from operating activities:, Adjustments to reconcile net income to net cash provided by operating activities: | Depreciation and amortization: fiscal year ended Jan 26, 2025: $1,864 million; fiscal year ended Jan 28, 2024: $1,508 million; fiscal year ended Jan 29, 2023: $1,544 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Income, Operating expenses, Net income per share:. Basic: fiscal year ended Jan 26, 2025: $2.97 million; fiscal year ended Jan 28, 2024: $1.21 million; fiscal year ended Jan 29, 2023: $0.18 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Cash flows from operating activities:, Adjustments to reconcile net income to net cash provided by operating activities: | Deferred income taxes: fiscal year ended Jan 26, 2025: $(4,477) million; fiscal year ended Jan 28, 2024: $(2,489) million; fiscal year ended Jan 29, 2023: $(2,164) million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Income, Operating expenses, Net income per share:. Diluted: fiscal year ended Jan 26, 2025: $2.94 million; fiscal year ended Jan 28, 2024: $1.19 million; fiscal year ended Jan 29, 2023: $0.17 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Cash flows from operating activities:, Adjustments to reconcile net income to net cash provided by operating activities: | (Gains) losses on non-marketable equity securities and publicly-held equity securities, net: fiscal year ended Jan 26, 2025: $(1,030) million; fiscal year ended Jan 28, 2024: $(238) million; fiscal year ended Jan 29, 2023: $45 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Income, Net income per share:, Weighted average shares used in per share computation:. Basic: fiscal year ended Jan 26, 2025: $24,555 million; fiscal year ended Jan 28, 2024: $24,690 million; fiscal year ended Jan 29, 2023: $24,870 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Cash flows from operating activities:, Adjustments to reconcile net income to net cash provided by operating activities: | Acquisition termination cost: fiscal year ended Jan 26, 2025: —; fiscal year ended Jan 28, 2024: —; fiscal year ended Jan 29, 2023: $1,353 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Income, Net income per share:, Weighted average shares used in per share computation:. Diluted: fiscal year ended Jan 26, 2025: $24,804 million; fiscal year ended Jan 28, 2024: $24,940 million; fiscal year ended Jan 29, 2023: $25,070 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Cash flows from operating activities:, Adjustments to reconcile net income to net cash provided by operating activities: | Other: fiscal year ended Jan 26, 2025: $(502) million; fiscal year ended Jan 28, 2024: $(278) million; fiscal year ended Jan 29, 2023: $(7) million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Comprehensive Income, (In millions). Net income: fiscal year ended Jan 26, 2025: $72,880 million; fiscal year ended Jan 28, 2024: $29,760 million; fiscal year ended Jan 29, 2023: $4,368 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Adjustments to reconcile net income to net cash provided by operating activities:, Changes in operating assets and liabilities, net of acquisitions: | Accounts receivable: fiscal year ended Jan 26, 2025: $(13,063) million; fiscal year ended Jan 28, 2024: $(6,172) million; fiscal year ended Jan 29, 2023: $822 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Comprehensive Income, Other comprehensive income (loss), net of tax, Available-for-sale securities:. Net change in unrealized gain (loss): fiscal year ended Jan 26, 2025: $1 million; fiscal year ended Jan 28, 2024: $80 million; fiscal year ended Jan 29, 2023: $(31) million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Adjustments to reconcile net income to net cash provided by operating activities:, Changes in operating assets and liabilities, net of acquisitions: | Inventories: fiscal year ended Jan 26, 2025: $(4,781) million; fiscal year ended Jan 28, 2024: $(98) million; fiscal year ended Jan 29, 2023: $(2,554) million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Comprehensive Income, Other comprehensive income (loss), net of tax, Available-for-sale securities:. Reclassification adjustments for net realized gain included in net income: fiscal year ended Jan 26, 2025: —; fiscal year ended Jan 28, 2024: —; fiscal year ended Jan 29, 2023: $1 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Adjustments to reconcile net income to net cash provided by operating activities:, Changes in operating assets and liabilities, net of acquisitions: | Prepaid expenses and other assets: fiscal year ended Jan 26, 2025: $(395) million; fiscal year ended Jan 28, 2024: $(1,522) million; fiscal year ended Jan 29, 2023: $(1,517) million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Comprehensive Income, Other comprehensive income (loss), net of tax, Available-for-sale securities:. Net change in unrealized gain (loss): fiscal year ended Jan 26, 2025: $1 million; fiscal year ended Jan 28, 2024: $80 million; fiscal year ended Jan 29, 2023: $(30) million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Adjustments to reconcile net income to net cash provided by operating activities:, Changes in operating assets and liabilities, net of acquisitions: | Accounts payable: fiscal year ended Jan 26, 2025: $3,357 million; fiscal year ended Jan 28, 2024: $1,531 million; fiscal year ended Jan 29, 2023: $(551) million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Comprehensive Income, Available-for-sale securities:, Cash flow hedges:. Net change in unrealized gain: fiscal year ended Jan 26, 2025: $21 million; fiscal year ended Jan 28, 2024: $38 million; fiscal year ended Jan 29, 2023: $47 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Adjustments to reconcile net income to net cash provided by operating activities:, Changes in operating assets and liabilities, net of acquisitions: | Accrued and other current liabilities: fiscal year ended Jan 26, 2025: $4,278 million; fiscal year ended Jan 28, 2024: $2,025 million; fiscal year ended Jan 29, 2023: $1,341 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Comprehensive Income, Available-for-sale securities:, Cash flow hedges:. Reclassification adjustments for net realized loss included in net income: fiscal year ended Jan 26, 2025: $(21) million; fiscal year ended Jan 28, 2024: $(48) million; fiscal year ended Jan 29, 2023: $(49) million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Adjustments to reconcile net income to net cash provided by operating activities:, Changes in operating assets and liabilities, net of acquisitions: | Other long-term liabilities: fiscal year ended Jan 26, 2025: $1,221 million; fiscal year ended Jan 28, 2024: $514 million; fiscal year ended Jan 29, 2023: $252 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Comprehensive Income, Available-for-sale securities:, Cash flow hedges:. Net change in unrealized loss: fiscal year ended Jan 26, 2025: —; fiscal year ended Jan 28, 2024: $(10) million; fiscal year ended Jan 29, 2023: $(2) million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Adjustments to reconcile net income to net cash provided by operating activities:, Changes in operating assets and liabilities, net of acquisitions: | Net cash provided by operating activities: fiscal year ended Jan 26, 2025: $64,089 million; fiscal year ended Jan 28, 2024: $28,090 million; fiscal year ended Jan 29, 2023: $5,641 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Comprehensive Income, Available-for-sale securities:, Cash flow hedges:. Other comprehensive income (loss), net of tax: fiscal year ended Jan 26, 2025: $1 million; fiscal year ended Jan 28, 2024: $70 million; fiscal year ended Jan 29, 2023: $(32) million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Changes in operating assets and liabilities, net of acquisitions:, Cash flows from investing activities: | Proceeds from maturities of marketable securities: fiscal year ended Jan 26, 2025: $11,195 million; fiscal year ended Jan 28, 2024: $9,732 million; fiscal year ended Jan 29, 2023: $19,425 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Comprehensive Income, Available-for-sale securities:, Cash flow hedges:. Total comprehensive income: fiscal year ended Jan 26, 2025: $72,881 million; fiscal year ended Jan 28, 2024: $29,830 million; fiscal year ended Jan 29, 2023: $4,336 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Changes in operating assets and liabilities, net of acquisitions:, Cash flows from investing activities: | Proceeds from sales of marketable securities: fiscal year ended Jan 26, 2025: $495 million; fiscal year ended Jan 28, 2024: $50 million; fiscal year ended Jan 29, 2023: $1,806 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Assets, Current assets:. Cash and cash equivalents: fiscal year ended Jan 26, 2025: $8,589 million; fiscal year ended Jan 28, 2024: $7,280 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Changes in operating assets and liabilities, net of acquisitions:, Cash flows from investing activities: | Proceeds from sales of non-marketable equity securities: fiscal year ended Jan 26, 2025: $171 million; fiscal year ended Jan 28, 2024: $1 million; fiscal year ended Jan 29, 2023: $8 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Assets, Current assets:. Marketable securities: fiscal year ended Jan 26, 2025: $34,621 million; fiscal year ended Jan 28, 2024: $18,704 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Changes in operating assets and liabilities, net of acquisitions:, Cash flows from investing activities: | Purchases of marketable securities: fiscal year ended Jan 26, 2025: $(26,575) million; fiscal year ended Jan 28, 2024: $(18,211) million; fiscal year ended Jan 29, 2023: $(11,897) million
 
-NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Assets, Current assets:. Accounts receivable, net: fiscal year ended Jan 26, 2025: $23,065 million; fiscal year ended Jan 28, 2024: $9,999 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Changes in operating assets and liabilities, net of acquisitions:, Cash flows from investing activities: | Purchases related to property and equipment and intangible assets: fiscal year ended Jan 26, 2025: $(3,236) million; fiscal year ended Jan 28, 2024: $(1,069) million; fiscal year ended Jan 29, 2023: $(1,833) million
 
-NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Assets, Current assets:. Inventories: fiscal year ended Jan 26, 2025: $10,080 million; fiscal year ended Jan 28, 2024: $5,282 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Changes in operating assets and liabilities, net of acquisitions:, Cash flows from investing activities: | Purchases of non-marketable equity securities: fiscal year ended Jan 26, 2025: $(1,486) million; fiscal year ended Jan 28, 2024: $(862) million; fiscal year ended Jan 29, 2023: $(85) million
 
-NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Assets, Current assets:. Prepaid expenses and other current assets: fiscal year ended Jan 26, 2025: $3,771 million; fiscal year ended Jan 28, 2024: $3,080 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Changes in operating assets and liabilities, net of acquisitions:, Cash flows from investing activities: | Acquisitions, net of cash acquired: fiscal year ended Jan 26, 2025: $(1,007) million; fiscal year ended Jan 28, 2024: $(83) million; fiscal year ended Jan 29, 2023: $(49) million
 
-NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Assets, Current assets:. Total current assets: fiscal year ended Jan 26, 2025: $80,126 million; fiscal year ended Jan 28, 2024: $44,345 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Changes in operating assets and liabilities, net of acquisitions:, Cash flows from investing activities: | Other: fiscal year ended Jan 26, 2025: $22 million; fiscal year ended Jan 28, 2024: $(124) million; fiscal year ended Jan 29, 2023: —
 
-NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Assets, Current assets:. Property and equipment, net: fiscal year ended Jan 26, 2025: $6,283 million; fiscal year ended Jan 28, 2024: $3,914 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Changes in operating assets and liabilities, net of acquisitions:, Cash flows from investing activities: | Net cash provided by (used in) investing activities: fiscal year ended Jan 26, 2025: $(20,421) million; fiscal year ended Jan 28, 2024: $(10,566) million; fiscal year ended Jan 29, 2023: $7,375 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Assets, Current assets:. Operating lease assets: fiscal year ended Jan 26, 2025: $1,793 million; fiscal year ended Jan 28, 2024: $1,346 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Cash flows from investing activities:, Cash flows from financing activities: | Proceeds related to employee stock plans: fiscal year ended Jan 26, 2025: $490 million; fiscal year ended Jan 28, 2024: $403 million; fiscal year ended Jan 29, 2023: $355 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Assets, Current assets:. Goodwill: fiscal year ended Jan 26, 2025: $5,188 million; fiscal year ended Jan 28, 2024: $4,430 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Cash flows from financing activities: | Payments related to repurchases of common stock: fiscal year ended Jan 26, 2025: $(33,706) million; fiscal year ended Jan 28, 2024: $(9,533) million; fiscal year ended Jan 29, 2023: $(10,039) million
 
-NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Assets, Current assets:. Intangible assets, net: fiscal year ended Jan 26, 2025: $807 million; fiscal year ended Jan 28, 2024: $1,112 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Cash flows from financing activities: | Payments related to tax on restricted stock units: fiscal year ended Jan 26, 2025: $(6,930) million; fiscal year ended Jan 28, 2024: $(2,783) million; fiscal year ended Jan 29, 2023: $(1,475) million
 
-NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Assets, Current assets:. Deferred income tax assets: fiscal year ended Jan 26, 2025: $10,979 million; fiscal year ended Jan 28, 2024: $6,081 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Cash flows from financing activities: | Repayment of debt: fiscal year ended Jan 26, 2025: $(1,250) million; fiscal year ended Jan 28, 2024: $(1,250) million; fiscal year ended Jan 29, 2023: —
 
-NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Assets, Current assets:. Other assets: fiscal year ended Jan 26, 2025: $6,425 million; fiscal year ended Jan 28, 2024: $4,500 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Cash flows from financing activities: | Dividends paid: fiscal year ended Jan 26, 2025: $(834) million; fiscal year ended Jan 28, 2024: $(395) million; fiscal year ended Jan 29, 2023: $(398) million
 
-NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Assets, Current assets:. Total assets: fiscal year ended Jan 26, 2025: $111,601 million; fiscal year ended Jan 28, 2024: $65,728 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Cash flows from financing activities: | Principal payments on property and equipment and intangible assets: fiscal year ended Jan 26, 2025: $(129) million; fiscal year ended Jan 28, 2024: $(74) million; fiscal year ended Jan 29, 2023: $(58) million
 
-NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Liabilities and Shareholders' Equity, Current liabilities:. Accounts payable: fiscal year ended Jan 26, 2025: $6,310 million; fiscal year ended Jan 28, 2024: $2,699 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Cash flows from financing activities: | Other: fiscal year ended Jan 26, 2025: —; fiscal year ended Jan 28, 2024: $(1) million; fiscal year ended Jan 29, 2023: $(2) million
 
-NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Liabilities and Shareholders' Equity, Current liabilities:. Accrued and other current liabilities: fiscal year ended Jan 26, 2025: $11,737 million; fiscal year ended Jan 28, 2024: $6,682 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Cash flows from financing activities: | Net cash used in financing activities: fiscal year ended Jan 26, 2025: $(42,359) million; fiscal year ended Jan 28, 2024: $(13,633) million; fiscal year ended Jan 29, 2023: $(11,617) million
 
-NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Liabilities and Shareholders' Equity, Current liabilities:. Short-term debt: fiscal year ended Jan 26, 2025: —; fiscal year ended Jan 28, 2024: $1,250 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Cash flows from financing activities: | Change in cash and cash equivalents: fiscal year ended Jan 26, 2025: $1,309 million; fiscal year ended Jan 28, 2024: $3,891 million; fiscal year ended Jan 29, 2023: $1,399 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Liabilities and Shareholders' Equity, Current liabilities:. Total current liabilities: fiscal year ended Jan 26, 2025: $18,047 million; fiscal year ended Jan 28, 2024: $10,631 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Cash flows from financing activities: | Cash and cash equivalents at beginning of period: fiscal year ended Jan 26, 2025: $7,280 million; fiscal year ended Jan 28, 2024: $3,389 million; fiscal year ended Jan 29, 2023: $1,990 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Liabilities and Shareholders' Equity, Current liabilities:. Long-term debt: fiscal year ended Jan 26, 2025: $8,463 million; fiscal year ended Jan 28, 2024: $8,459 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Cash flows from financing activities: | Cash and cash equivalents at end of period: fiscal year ended Jan 26, 2025: $8,589 million; fiscal year ended Jan 28, 2024: $7,280 million; fiscal year ended Jan 29, 2023: $3,389 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Liabilities and Shareholders' Equity, Current liabilities:. Long-term operating lease liabilities: fiscal year ended Jan 26, 2025: $1,519 million; fiscal year ended Jan 28, 2024: $1,119 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Cash flows from financing activities:, Supplemental disclosures of cash flow information: | Cash paid for income taxes, net: fiscal year ended Jan 26, 2025: $15,118 million; fiscal year ended Jan 28, 2024: $6,549 million; fiscal year ended Jan 29, 2023: $1,404 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Liabilities and Shareholders' Equity, Current liabilities:. Other long-term liabilities: fiscal year ended Jan 26, 2025: $4,245 million; fiscal year ended Jan 28, 2024: $2,541 million.
+NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Cash flows from financing activities:, Supplemental disclosures of cash flow information: | Cash paid for interest: fiscal year ended Jan 26, 2025: $246 million; fiscal year ended Jan 28, 2024: $252 million; fiscal year ended Jan 29, 2023: $254 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Liabilities and Shareholders' Equity, Current liabilities:. Total liabilities: fiscal year ended Jan 26, 2025: $32,274 million; fiscal year ended Jan 28, 2024: $22,750 million.
+NVIDIA fiscal 2025 10-K, (In millions, except per share data), RSUs, PSUs and Market-based PSUs | Awards granted: fiscal year ended Jan 26, 2025: $89 million; fiscal year ended Jan 28, 2024: $140 million; fiscal year ended Jan 29, 2023: $250 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Current liabilities:. Commitments and contingencies - see Note 12: fiscal year ended Jan 26, 2025: —; fiscal year ended Jan 28, 2024: —.
+NVIDIA fiscal 2025 10-K, (In millions, except per share data), RSUs, PSUs and Market-based PSUs | Estimated total grant-date fair value: fiscal year ended Jan 26, 2025: $7,834 million; fiscal year ended Jan 28, 2024: $5,316 million; fiscal year ended Jan 29, 2023: $4,505 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Balance Sheets, Shareholders’ equity:. Preferred stock, $ 0.001 par value; 20 shares authorized; none issued: fiscal year ended Jan 26, 2025: —; fiscal year ended Jan 28, 2024: —.
+NVIDIA fiscal 2025 10-K, (In millions, except per share data), RSUs, PSUs and Market-based PSUs | Weighted average grant-date fair value per share: fiscal year ended Jan 26, 2025: $87.99 million; fiscal year ended Jan 28, 2024: $37.41 million; fiscal year ended Jan 29, 2023: $18.37 million
 
-NVIDIA fiscal 2025 10-K, . Additional paid-in capital: 11,237, 13,109.
+NVIDIA fiscal 2025 10-K, (In millions, except per share data) | Balance as of Jan 28, 2024: $367 million, $24.59 million
 
-NVIDIA fiscal 2025 10-K, . Accumulated other comprehensive income: 28, 27.
+NVIDIA fiscal 2025 10-K, (In millions, except per share data) | Granted: $89 million, $87.99 million
 
-NVIDIA fiscal 2025 10-K, . Retained earnings: 68,038, 29,817.
+NVIDIA fiscal 2025 10-K, (In millions, except per share data) | Vested: $(173) million, $24.89 million
 
-NVIDIA fiscal 2025 10-K, . Total shareholders' equity: 79,327, 42,978.
+NVIDIA fiscal 2025 10-K, (In millions, except per share data) | Canceled and forfeited: $(9) million, $32.10 million
 
-NVIDIA fiscal 2025 10-K, . Total liabilities and shareholders' equity: 111,601, 65,728.
+NVIDIA fiscal 2025 10-K, (In millions, except per share data) | Balance as of Jan 26, 2025: $274 million, $44.75 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data). Balances as of Jan 30, 2022: $25,064 million, $26 million, $10,362 million, $(11) million, $16,235 million, $26,612 million.
+NVIDIA fiscal 2025 10-K, (In millions, except per share data) | Vested and expected to vest after Jan 26, 2025: $272 million, $44.59 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data). Net income: —, —, —, —, $4,368 million, $4,368 million.
+NVIDIA fiscal 2025 10-K, Adjustments to the carrying value of our non-marketable equity securities during fiscal years 2025 and 2024 were as follows:, (In millions) | Balance at beginning of period: fiscal year ended Jan 26, 2025: $1,321 million; fiscal year ended Jan 28, 2024: $288 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data). Other comprehensive loss: —, —, —, $(32) million, —, $(32) million.
+NVIDIA fiscal 2025 10-K, (In millions), Adjustments related to non-marketable equity securities: | Net additions: fiscal year ended Jan 26, 2025: $1,309 million; fiscal year ended Jan 28, 2024: $859 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data). Issuance of common stock from stock plans: $312 million, —, $355 million, —, —, $355 million.
+NVIDIA fiscal 2025 10-K, (In millions), Adjustments related to non-marketable equity securities: | Unrealized gains: fiscal year ended Jan 26, 2025: $816 million; fiscal year ended Jan 28, 2024: $194 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data). Tax withholding related to vesting of restricted stock units: $(82) million, —, $(1,475) million, —, —, $(1,475) million.
+NVIDIA fiscal 2025 10-K, (In millions), Adjustments related to non-marketable equity securities: | Impairments and unrealized losses: fiscal year ended Jan 26, 2025: $(59) million; fiscal year ended Jan 28, 2024: $(20) million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data). Shares repurchased: $(633) million, $(1) million, $(4) million, —, $(10,034) million, $(10,039) million.
+NVIDIA fiscal 2025 10-K, (In millions), Adjustments related to non-marketable equity securities: | Balance at end of period: fiscal year ended Jan 26, 2025: $3,387 million; fiscal year ended Jan 28, 2024: $1,321 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data). Cash dividends declared and paid ($ 0.016 per common share): —, —, —, —, $(398) million, $(398) million.
+NVIDIA fiscal 2025 10-K, Certain balance sheet components are as follows:, (In millions) | Inventories - Raw materials: fiscal year ended Jan 26, 2025: $3,408 million; fiscal year ended Jan 28, 2024: $1,719 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data). Stock-based compensation: —, —, $2,710 million, —, —, $2,710 million.
+NVIDIA fiscal 2025 10-K, Certain balance sheet components are as follows:, (In millions) | Inventories - Work in process: fiscal year ended Jan 26, 2025: $3,399 million; fiscal year ended Jan 28, 2024: $1,505 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data). Balances as of Jan 29, 2023: $24,661 million, $25 million, $11,948 million, $(43) million, $10,171 million, $22,101 million.
+NVIDIA fiscal 2025 10-K, Certain balance sheet components are as follows:, (In millions) | Inventories - Finished goods: fiscal year ended Jan 26, 2025: $3,273 million; fiscal year ended Jan 28, 2024: $2,058 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data). Net income: —, —, —, —, $29,760 million, $29,760 million.
+NVIDIA fiscal 2025 10-K, Certain balance sheet components are as follows:, (In millions) | Inventories - Total inventories (1): fiscal year ended Jan 26, 2025: $10,080 million; fiscal year ended Jan 28, 2024: $5,282 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data). Other comprehensive income: —, —, —, $70 million, —, $70 million.
+NVIDIA fiscal 2025 10-K, Useful Life, (In millions) | Property and Equipment - Land: fiscal year ended Jan 26, 2025: $511 million; fiscal year ended Jan 28, 2024: $218 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data). Issuance of common stock from stock plans: $265 million, —, $403 million, —, —, $403 million.
+NVIDIA fiscal 2025 10-K, Useful Life, (In millions) | Property and Equipment - Buildings, leasehold improvements, and furniture: fiscal year ended Jan 26, 2025: $2,076 million; fiscal year ended Jan 28, 2024: $1,816 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data). Tax withholding related to vesting of restricted stock units: $(72) million, —, $(2,783) million, —, —, $(2,783) million.
+NVIDIA fiscal 2025 10-K, Useful Life, (In millions) | Property and Equipment - Equipment, compute hardware, and software: fiscal year ended Jan 26, 2025: $7,568 million; fiscal year ended Jan 28, 2024: $5,200 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data). Shares repurchased: $(211) million, —, $(27) million, —, $(9,719) million, $(9,746) million.
+NVIDIA fiscal 2025 10-K, Useful Life, (In millions) | Property and Equipment - Construction in process: fiscal year ended Jan 26, 2025: $529 million; fiscal year ended Jan 28, 2024: $189 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data). Cash dividends declared and paid ($ 0.016 per common share): —, —, —, —, $(395) million, $(395) million.
+NVIDIA fiscal 2025 10-K, Useful Life, (In millions) | Property and Equipment - Total property and equipment, gross: fiscal year ended Jan 26, 2025: $10,684 million; fiscal year ended Jan 28, 2024: $7,423 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data). Stock-based compensation: —, —, $3,568 million, —, —, $3,568 million.
+NVIDIA fiscal 2025 10-K, Useful Life, (In millions) | Property and Equipment - Accumulated depreciation and amortization: fiscal year ended Jan 26, 2025: $(4,401) million; fiscal year ended Jan 28, 2024: $(3,509) million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data). Balances as of Jan 28, 2024: $24,643 million, $25 million, $13,109 million, $27 million, $29,817 million, $42,978 million.
+NVIDIA fiscal 2025 10-K, Useful Life, (In millions) | Property and Equipment - Total property and equipment, net: fiscal year ended Jan 26, 2025: $6,283 million; fiscal year ended Jan 28, 2024: $3,914 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data). Net income: —, —, —, —, $72,880 million, $72,880 million.
+NVIDIA fiscal 2025 10-K, (In millions) | Other Assets (Long Term) - Non-marketable equity securities: fiscal year ended Jan 26, 2025: $3,387 million; fiscal year ended Jan 28, 2024: $1,321 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data). Other comprehensive income: —, —, —, $1 million, —, $1 million.
+NVIDIA fiscal 2025 10-K, (In millions) | Other Assets (Long Term) - Prepaid supply and capacity agreements (1): fiscal year ended Jan 26, 2025: $1,747 million; fiscal year ended Jan 28, 2024: $2,458 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data). Issuance of common stock from stock plans: $203 million, —, $490 million, —, —, $490 million.
+NVIDIA fiscal 2025 10-K, (In millions) | Other Assets (Long Term) - Income tax receivable: fiscal year ended Jan 26, 2025: $750 million; fiscal year ended Jan 28, 2024: —
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data). Tax withholding related to vesting of restricted stock units: $(59) million, —, $(6,930) million, —, —, $(6,930) million.
+NVIDIA fiscal 2025 10-K, (In millions) | Other Assets (Long Term) - Prepaid royalties: fiscal year ended Jan 26, 2025: $340 million; fiscal year ended Jan 28, 2024: $364 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data). Shares repurchased: $(310) million, $(1) million, $(189) million, —, $(33,825) million, $(34,015) million.
+NVIDIA fiscal 2025 10-K, (In millions) | Other Assets (Long Term) - Other: fiscal year ended Jan 26, 2025: $201 million; fiscal year ended Jan 28, 2024: $357 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data). Cash dividends declared and paid ($ 0.034 per common share): —, —, —, —, $(834) million, $(834) million.
+NVIDIA fiscal 2025 10-K, (In millions) | Other Assets (Long Term) - Total other assets: fiscal year ended Jan 26, 2025: $6,425 million; fiscal year ended Jan 28, 2024: $4,500 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data). Stock-based compensation: —, —, $4,757 million, —, —, $4,757 million.
+NVIDIA fiscal 2025 10-K, (In millions) | Accrued and Other Current Liabilities - Customer program accruals: fiscal year ended Jan 26, 2025: $4,880 million; fiscal year ended Jan 28, 2024: $2,081 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Shareholders' Equity, (In millions, except per share data). Balances as of Jan 26, 2025: $24,477 million, $24 million, $11,237 million, $28 million, $68,038 million, $79,327 million.
+NVIDIA fiscal 2025 10-K, (In millions) | Accrued and Other Current Liabilities - Excess inventory purchase obligations (1): fiscal year ended Jan 26, 2025: $2,095 million; fiscal year ended Jan 28, 2024: $1,655 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, (In millions), Cash flows from operating activities:. Net income: fiscal year ended Jan 26, 2025: $72,880 million; fiscal year ended Jan 28, 2024: $29,760 million; fiscal year ended Jan 29, 2023: $4,368 million.
+NVIDIA fiscal 2025 10-K, (In millions) | Accrued and Other Current Liabilities - Product warranty and return provisions: fiscal year ended Jan 26, 2025: $1,373 million; fiscal year ended Jan 28, 2024: $415 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Cash flows from operating activities:, Adjustments to reconcile net income to net cash provided by operating activities:. Stock-based compensation expense: fiscal year ended Jan 26, 2025: $4,737 million; fiscal year ended Jan 28, 2024: $3,549 million; fiscal year ended Jan 29, 2023: $2,709 million.
+NVIDIA fiscal 2025 10-K, (In millions) | Accrued and Other Current Liabilities - Taxes payable: fiscal year ended Jan 26, 2025: $881 million; fiscal year ended Jan 28, 2024: $296 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Cash flows from operating activities:, Adjustments to reconcile net income to net cash provided by operating activities:. Depreciation and amortization: fiscal year ended Jan 26, 2025: $1,864 million; fiscal year ended Jan 28, 2024: $1,508 million; fiscal year ended Jan 29, 2023: $1,544 million.
+NVIDIA fiscal 2025 10-K, (In millions) | Accrued and Other Current Liabilities - Accrued payroll and related expenses: fiscal year ended Jan 26, 2025: $848 million; fiscal year ended Jan 28, 2024: $675 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Cash flows from operating activities:, Adjustments to reconcile net income to net cash provided by operating activities:. Deferred income taxes: fiscal year ended Jan 26, 2025: $(4,477) million; fiscal year ended Jan 28, 2024: $(2,489) million; fiscal year ended Jan 29, 2023: $(2,164) million.
+NVIDIA fiscal 2025 10-K, (In millions) | Accrued and Other Current Liabilities - Deferred revenue (2): fiscal year ended Jan 26, 2025: $837 million; fiscal year ended Jan 28, 2024: $764 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Cash flows from operating activities:, Adjustments to reconcile net income to net cash provided by operating activities:. (Gains) losses on non-marketable equity securities and publicly-held equity securities, net: fiscal year ended Jan 26, 2025: $(1,030) million; fiscal year ended Jan 28, 2024: $(238) million; fiscal year ended Jan 29, 2023: $45 million.
+NVIDIA fiscal 2025 10-K, (In millions) | Accrued and Other Current Liabilities - Operating leases: fiscal year ended Jan 26, 2025: $288 million; fiscal year ended Jan 28, 2024: $228 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Cash flows from operating activities:, Adjustments to reconcile net income to net cash provided by operating activities:. Acquisition termination cost: fiscal year ended Jan 26, 2025: —; fiscal year ended Jan 28, 2024: —; fiscal year ended Jan 29, 2023: $1,353 million.
+NVIDIA fiscal 2025 10-K, (In millions) | Accrued and Other Current Liabilities - Licenses and royalties: fiscal year ended Jan 26, 2025: $175 million; fiscal year ended Jan 28, 2024: $182 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Cash flows from operating activities:, Adjustments to reconcile net income to net cash provided by operating activities:. Other: fiscal year ended Jan 26, 2025: $(502) million; fiscal year ended Jan 28, 2024: $(278) million; fiscal year ended Jan 29, 2023: $(7) million.
+NVIDIA fiscal 2025 10-K, (In millions) | Accrued and Other Current Liabilities - Unsettled share repurchases: fiscal year ended Jan 26, 2025: $132 million; fiscal year ended Jan 28, 2024: $187 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Adjustments to reconcile net income to net cash provided by operating activities:, Changes in operating assets and liabilities, net of acquisitions:. Accounts receivable: fiscal year ended Jan 26, 2025: $(13,063) million; fiscal year ended Jan 28, 2024: $(6,172) million; fiscal year ended Jan 29, 2023: $822 million.
+NVIDIA fiscal 2025 10-K, (In millions) | Accrued and Other Current Liabilities - Other: fiscal year ended Jan 26, 2025: $228 million; fiscal year ended Jan 28, 2024: $199 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Adjustments to reconcile net income to net cash provided by operating activities:, Changes in operating assets and liabilities, net of acquisitions:. Inventories: fiscal year ended Jan 26, 2025: $(4,781) million; fiscal year ended Jan 28, 2024: $(98) million; fiscal year ended Jan 29, 2023: $(2,554) million.
+NVIDIA fiscal 2025 10-K, (In millions) | Accrued and Other Current Liabilities - Total accrued and other current liabilities: fiscal year ended Jan 26, 2025: $11,737 million; fiscal year ended Jan 28, 2024: $6,682 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Adjustments to reconcile net income to net cash provided by operating activities:, Changes in operating assets and liabilities, net of acquisitions:. Prepaid expenses and other assets: fiscal year ended Jan 26, 2025: $(395) million; fiscal year ended Jan 28, 2024: $(1,522) million; fiscal year ended Jan 29, 2023: $(1,517) million.
+NVIDIA fiscal 2025 10-K, (In millions) | Other Long-Term Liabilities - Income tax payable (1): fiscal year ended Jan 26, 2025: $2,188 million; fiscal year ended Jan 28, 2024: $1,361 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Adjustments to reconcile net income to net cash provided by operating activities:, Changes in operating assets and liabilities, net of acquisitions:. Accounts payable: fiscal year ended Jan 26, 2025: $3,357 million; fiscal year ended Jan 28, 2024: $1,531 million; fiscal year ended Jan 29, 2023: $(551) million.
+NVIDIA fiscal 2025 10-K, (In millions) | Other Long-Term Liabilities - Deferred revenue (2): fiscal year ended Jan 26, 2025: $976 million; fiscal year ended Jan 28, 2024: $573 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Adjustments to reconcile net income to net cash provided by operating activities:, Changes in operating assets and liabilities, net of acquisitions:. Accrued and other current liabilities: fiscal year ended Jan 26, 2025: $4,278 million; fiscal year ended Jan 28, 2024: $2,025 million; fiscal year ended Jan 29, 2023: $1,341 million.
+NVIDIA fiscal 2025 10-K, (In millions) | Other Long-Term Liabilities - Deferred income tax: fiscal year ended Jan 26, 2025: $886 million; fiscal year ended Jan 28, 2024: $462 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Adjustments to reconcile net income to net cash provided by operating activities:, Changes in operating assets and liabilities, net of acquisitions:. Other long-term liabilities: fiscal year ended Jan 26, 2025: $1,221 million; fiscal year ended Jan 28, 2024: $514 million; fiscal year ended Jan 29, 2023: $252 million.
+NVIDIA fiscal 2025 10-K, (In millions) | Other Long-Term Liabilities - Licenses payable: fiscal year ended Jan 26, 2025: $116 million; fiscal year ended Jan 28, 2024: $80 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Adjustments to reconcile net income to net cash provided by operating activities:, Changes in operating assets and liabilities, net of acquisitions:. Net cash provided by operating activities: fiscal year ended Jan 26, 2025: $64,089 million; fiscal year ended Jan 28, 2024: $28,090 million; fiscal year ended Jan 29, 2023: $5,641 million.
+NVIDIA fiscal 2025 10-K, (In millions) | Other Long-Term Liabilities - Other: fiscal year ended Jan 26, 2025: $79 million; fiscal year ended Jan 28, 2024: $65 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Changes in operating assets and liabilities, net of acquisitions:, Cash flows from investing activities:. Proceeds from maturities of marketable securities: fiscal year ended Jan 26, 2025: $11,195 million; fiscal year ended Jan 28, 2024: $9,732 million; fiscal year ended Jan 29, 2023: $19,425 million.
+NVIDIA fiscal 2025 10-K, (In millions) | Other Long-Term Liabilities - Total other long-term liabilities: fiscal year ended Jan 26, 2025: $4,245 million; fiscal year ended Jan 28, 2024: $2,541 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Changes in operating assets and liabilities, net of acquisitions:, Cash flows from investing activities:. Proceeds from sales of marketable securities: fiscal year ended Jan 26, 2025: $495 million; fiscal year ended Jan 28, 2024: $50 million; fiscal year ended Jan 29, 2023: $1,806 million.
+NVIDIA fiscal 2025 10-K, The following table shows the changes in short- and long-term deferred revenue during fiscal years 2025 and 2024:, (In millions) | Balance at beginning of period: fiscal year ended Jan 26, 2025: $1,337 million; fiscal year ended Jan 28, 2024: $572 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Changes in operating assets and liabilities, net of acquisitions:, Cash flows from investing activities:. Proceeds from sales of non-marketable equity securities: fiscal year ended Jan 26, 2025: $171 million; fiscal year ended Jan 28, 2024: $1 million; fiscal year ended Jan 29, 2023: $8 million.
+NVIDIA fiscal 2025 10-K, The following table shows the changes in short- and long-term deferred revenue during fiscal years 2025 and 2024:, (In millions) | Deferred revenue additions (1): fiscal year ended Jan 26, 2025: $5,083 million; fiscal year ended Jan 28, 2024: $2,038 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Changes in operating assets and liabilities, net of acquisitions:, Cash flows from investing activities:. Purchases of marketable securities: fiscal year ended Jan 26, 2025: $(26,575) million; fiscal year ended Jan 28, 2024: $(18,211) million; fiscal year ended Jan 29, 2023: $(11,897) million.
+NVIDIA fiscal 2025 10-K, The following table shows the changes in short- and long-term deferred revenue during fiscal years 2025 and 2024:, (In millions) | Revenue recognized (2): fiscal year ended Jan 26, 2025: $(4,607) million; fiscal year ended Jan 28, 2024: $(1,273) million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Changes in operating assets and liabilities, net of acquisitions:, Cash flows from investing activities:. Purchases related to property and equipment and intangible assets: fiscal year ended Jan 26, 2025: $(3,236) million; fiscal year ended Jan 28, 2024: $(1,069) million; fiscal year ended Jan 29, 2023: $(1,833) million.
+NVIDIA fiscal 2025 10-K, The following table shows the changes in short- and long-term deferred revenue during fiscal years 2025 and 2024:, (In millions) | Balance at end of period: fiscal year ended Jan 26, 2025: $1,813 million; fiscal year ended Jan 28, 2024: $1,337 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Changes in operating assets and liabilities, net of acquisitions:, Cash flows from investing activities:. Purchases of non-marketable equity securities: fiscal year ended Jan 26, 2025: $(1,486) million; fiscal year ended Jan 28, 2024: $(862) million; fiscal year ended Jan 29, 2023: $(85) million.
+NVIDIA fiscal 2025 10-K, (In millions) | Balance at beginning of period: fiscal year ended Jan 26, 2025: $306 million; fiscal year ended Jan 28, 2024: $82 million; fiscal year ended Jan 29, 2023: $46 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Changes in operating assets and liabilities, net of acquisitions:, Cash flows from investing activities:. Acquisitions, net of cash acquired: fiscal year ended Jan 26, 2025: $(1,007) million; fiscal year ended Jan 28, 2024: $(83) million; fiscal year ended Jan 29, 2023: $(49) million.
+NVIDIA fiscal 2025 10-K, (In millions) | Additions: fiscal year ended Jan 26, 2025: $1,203 million; fiscal year ended Jan 28, 2024: $278 million; fiscal year ended Jan 29, 2023: $145 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Changes in operating assets and liabilities, net of acquisitions:, Cash flows from investing activities:. Other: fiscal year ended Jan 26, 2025: $22 million; fiscal year ended Jan 28, 2024: $(124) million; fiscal year ended Jan 29, 2023: —.
+NVIDIA fiscal 2025 10-K, (In millions) | Utilization: fiscal year ended Jan 26, 2025: $(219) million; fiscal year ended Jan 28, 2024: $(54) million; fiscal year ended Jan 29, 2023: $(109) million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Changes in operating assets and liabilities, net of acquisitions:, Cash flows from investing activities:. Net cash provided by (used in) investing activities: fiscal year ended Jan 26, 2025: $(20,421) million; fiscal year ended Jan 28, 2024: $(10,566) million; fiscal year ended Jan 29, 2023: $7,375 million.
+NVIDIA fiscal 2025 10-K, (In millions) | Balance at end of period: fiscal year ended Jan 26, 2025: $1,290 million; fiscal year ended Jan 28, 2024: $306 million; fiscal year ended Jan 29, 2023: $82 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Cash flows from investing activities:, Cash flows from financing activities:. Proceeds related to employee stock plans: fiscal year ended Jan 26, 2025: $490 million; fiscal year ended Jan 28, 2024: $403 million; fiscal year ended Jan 29, 2023: $355 million.
+NVIDIA fiscal 2025 10-K, Deferred income taxes:, The income tax expense (benefit) differs from the amount computed by applying the U.S. federal statutory rate of 21% to income before income taxes as follows: | Tax expense computed at federal statutory rate: fiscal year ended Jan 26, 2025: 17,645; fiscal year ended Jan 28, 2024: 21.0%; fiscal year ended Jan 29, 2023: 7,102
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Cash flows from financing activities:. Payments related to repurchases of common stock: fiscal year ended Jan 26, 2025: $(33,706) million; fiscal year ended Jan 28, 2024: $(9,533) million; fiscal year ended Jan 29, 2023: $(10,039) million.
+NVIDIA fiscal 2025 10-K, The income tax expense (benefit) differs from the amount computed by applying the U.S. federal statutory rate of 21% to income before income taxes as follows:, Expense (benefit) resulting from: | State income taxes, net of federal tax effect: fiscal year ended Jan 26, 2025: 554; fiscal year ended Jan 28, 2024: 0.7%; fiscal year ended Jan 29, 2023: 120
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Cash flows from financing activities:. Payments related to tax on restricted stock units: fiscal year ended Jan 26, 2025: $(6,930) million; fiscal year ended Jan 28, 2024: $(2,783) million; fiscal year ended Jan 29, 2023: $(1,475) million.
+NVIDIA fiscal 2025 10-K, The income tax expense (benefit) differs from the amount computed by applying the U.S. federal statutory rate of 21% to income before income taxes as follows:, Expense (benefit) resulting from: | Foreign-derived intangible income: fiscal year ended Jan 26, 2025: (2,976); fiscal year ended Jan 28, 2024: (3.5)%; fiscal year ended Jan 29, 2023: (1,408)
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Cash flows from financing activities:. Repayment of debt: fiscal year ended Jan 26, 2025: $(1,250) million; fiscal year ended Jan 28, 2024: $(1,250) million; fiscal year ended Jan 29, 2023: —.
+NVIDIA fiscal 2025 10-K, The income tax expense (benefit) differs from the amount computed by applying the U.S. federal statutory rate of 21% to income before income taxes as follows:, Expense (benefit) resulting from: | Stock-based compensation: fiscal year ended Jan 26, 2025: (2,097); fiscal year ended Jan 28, 2024: (2.5)%; fiscal year ended Jan 29, 2023: (741)
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Cash flows from financing activities:. Dividends paid: fiscal year ended Jan 26, 2025: $(834) million; fiscal year ended Jan 28, 2024: $(395) million; fiscal year ended Jan 29, 2023: $(398) million.
+NVIDIA fiscal 2025 10-K, The income tax expense (benefit) differs from the amount computed by applying the U.S. federal statutory rate of 21% to income before income taxes as follows:, Expense (benefit) resulting from: | U.S. federal research and development tax credit: fiscal year ended Jan 26, 2025: (990); fiscal year ended Jan 28, 2024: (1.2)%; fiscal year ended Jan 29, 2023: (431)
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Cash flows from financing activities:. Principal payments on property and equipment and intangible assets: fiscal year ended Jan 26, 2025: $(129) million; fiscal year ended Jan 28, 2024: $(74) million; fiscal year ended Jan 29, 2023: $(58) million.
+NVIDIA fiscal 2025 10-K, The income tax expense (benefit) differs from the amount computed by applying the U.S. federal statutory rate of 21% to income before income taxes as follows:, Expense (benefit) resulting from: | Foreign tax rate differential: fiscal year ended Jan 26, 2025: (984); fiscal year ended Jan 28, 2024: (1.2)%; fiscal year ended Jan 29, 2023: (467)
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Cash flows from financing activities:. Other: fiscal year ended Jan 26, 2025: —; fiscal year ended Jan 28, 2024: $(1) million; fiscal year ended Jan 29, 2023: $(2) million.
+NVIDIA fiscal 2025 10-K, The income tax expense (benefit) differs from the amount computed by applying the U.S. federal statutory rate of 21% to income before income taxes as follows:, Expense (benefit) resulting from: | Acquisition termination cost: fiscal year ended Jan 26, 2025: —; fiscal year ended Jan 28, 2024: —%; fiscal year ended Jan 29, 2023: —
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Cash flows from financing activities:. Net cash used in financing activities: fiscal year ended Jan 26, 2025: $(42,359) million; fiscal year ended Jan 28, 2024: $(13,633) million; fiscal year ended Jan 29, 2023: $(11,617) million.
+NVIDIA fiscal 2025 10-K, The income tax expense (benefit) differs from the amount computed by applying the U.S. federal statutory rate of 21% to income before income taxes as follows:, Expense (benefit) resulting from: | Other: fiscal year ended Jan 26, 2025: (6); fiscal year ended Jan 28, 2024: —%; fiscal year ended Jan 29, 2023: (117)
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Cash flows from financing activities:. Change in cash and cash equivalents: fiscal year ended Jan 26, 2025: $1,309 million; fiscal year ended Jan 28, 2024: $3,891 million; fiscal year ended Jan 29, 2023: $1,399 million.
+NVIDIA fiscal 2025 10-K, The income tax expense (benefit) differs from the amount computed by applying the U.S. federal statutory rate of 21% to income before income taxes as follows:, Expense (benefit) resulting from: | Income tax expense (benefit): fiscal year ended Jan 26, 2025: 11,146; fiscal year ended Jan 28, 2024: 13.3%; fiscal year ended Jan 29, 2023: 4,058
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Cash flows from financing activities:. Cash and cash equivalents at beginning of period: fiscal year ended Jan 26, 2025: $7,280 million; fiscal year ended Jan 28, 2024: $3,389 million; fiscal year ended Jan 29, 2023: $1,990 million.
+NVIDIA fiscal 2025 10-K, (In millions), Year Ended Jan 26, 2025 | Revenue: $116,193 million, $14,304 million, —, $130,497 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Cash flows from financing activities:. Cash and cash equivalents at end of period: fiscal year ended Jan 26, 2025: $8,589 million; fiscal year ended Jan 28, 2024: $7,280 million; fiscal year ended Jan 29, 2023: $3,389 million.
+NVIDIA fiscal 2025 10-K, (In millions), Year Ended Jan 26, 2025 | Other segment items (1): $33,318 million, $9,219 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Cash flows from financing activities:, Supplemental disclosures of cash flow information:. Cash paid for income taxes, net: fiscal year ended Jan 26, 2025: $15,118 million; fiscal year ended Jan 28, 2024: $6,549 million; fiscal year ended Jan 29, 2023: $1,404 million.
+NVIDIA fiscal 2025 10-K, (In millions), Year Ended Jan 26, 2025 | Operating income (loss): $82,875 million, $5,085 million, $(6,507) million, $81,453 million
 
-NVIDIA fiscal 2025 10-K, Consolidated Statements of Cash Flows, Cash flows from financing activities:, Supplemental disclosures of cash flow information:. Cash paid for interest: fiscal year ended Jan 26, 2025: $246 million; fiscal year ended Jan 28, 2024: $252 million; fiscal year ended Jan 29, 2023: $254 million.
+NVIDIA fiscal 2025 10-K, (In millions) | Reconciling items included in "All Other" category - Stock-based compensation expense: fiscal year ended Jan 26, 2025: $(4,737) million; fiscal year ended Jan 28, 2024: $(3,549) million; fiscal year ended Jan 29, 2023: $(2,710) million
 
-NVIDIA fiscal 2025 10-K, . Cost of revenue: fiscal year ended Jan 26, 2025: 178; fiscal year ended Jan 28, 2024: 141; fiscal year ended Jan 29, 2023: 138.
+NVIDIA fiscal 2025 10-K, (In millions) | Reconciling items included in "All Other" category - Unallocated cost of revenue and operating expenses: fiscal year ended Jan 26, 2025: $(1,171) million; fiscal year ended Jan 28, 2024: $(728) million; fiscal year ended Jan 29, 2023: $(595) million
 
-NVIDIA fiscal 2025 10-K, . Research and development: fiscal year ended Jan 26, 2025: 3,423; fiscal year ended Jan 28, 2024: 2,532; fiscal year ended Jan 29, 2023: 1,892.
+NVIDIA fiscal 2025 10-K, (In millions) | Reconciling items included in "All Other" category - Acquisition-related and other costs: fiscal year ended Jan 26, 2025: $(602) million; fiscal year ended Jan 28, 2024: $(583) million; fiscal year ended Jan 29, 2023: $(674) million
 
-NVIDIA fiscal 2025 10-K, . Sales, general and administrative: fiscal year ended Jan 26, 2025: 1,136; fiscal year ended Jan 28, 2024: 876; fiscal year ended Jan 29, 2023: 680.
+NVIDIA fiscal 2025 10-K, (In millions) | Reconciling items included in "All Other" category - Acquisition termination cost: fiscal year ended Jan 26, 2025: —; fiscal year ended Jan 28, 2024: —; fiscal year ended Jan 29, 2023: $(1,353) million
 
-NVIDIA fiscal 2025 10-K, . Total: fiscal year ended Jan 26, 2025: 4,737; fiscal year ended Jan 28, 2024: 3,549; fiscal year ended Jan 29, 2023: 2,710.
+NVIDIA fiscal 2025 10-K, (In millions) | Reconciling items included in "All Other" category - Other: fiscal year ended Jan 26, 2025: $3 million; fiscal year ended Jan 28, 2024: $(30) million; fiscal year ended Jan 29, 2023: $(79) million
 
-NVIDIA fiscal 2025 10-K, (In millions, except per share data), RSUs, PSUs and Market-based PSUs. Awards granted: fiscal year ended Jan 26, 2025: $89 million; fiscal year ended Jan 28, 2024: $140 million; fiscal year ended Jan 29, 2023: $250 million.
+NVIDIA fiscal 2025 10-K, (In millions) | Reconciling items included in "All Other" category - Total: fiscal year ended Jan 26, 2025: $(6,507) million; fiscal year ended Jan 28, 2024: $(4,890) million; fiscal year ended Jan 29, 2023: $(5,411) million
 
-NVIDIA fiscal 2025 10-K, (In millions, except per share data), RSUs, PSUs and Market-based PSUs. Estimated total grant-date fair value: fiscal year ended Jan 26, 2025: $7,834 million; fiscal year ended Jan 28, 2024: $5,316 million; fiscal year ended Jan 29, 2023: $4,505 million.
+NVIDIA fiscal 2025 10-K, (In millions) | Geographic Revenue based upon Customer Billing Location - United States: fiscal year ended Jan 26, 2025: $61,257 million; fiscal year ended Jan 28, 2024: $26,966 million; fiscal year ended Jan 29, 2023: $8,292 million
 
-NVIDIA fiscal 2025 10-K, (In millions, except per share data), RSUs, PSUs and Market-based PSUs. Weighted average grant-date fair value per share: fiscal year ended Jan 26, 2025: $87.99 million; fiscal year ended Jan 28, 2024: $37.41 million; fiscal year ended Jan 29, 2023: $18.37 million.
+NVIDIA fiscal 2025 10-K, (In millions) | Geographic Revenue based upon Customer Billing Location - Singapore (1): fiscal year ended Jan 26, 2025: $23,684 million; fiscal year ended Jan 28, 2024: $6,831 million; fiscal year ended Jan 29, 2023: $2,288 million
 
-NVIDIA fiscal 2025 10-K, RSUs, PSUs and Market-based PSUs, ESPP. Shares purchased: fiscal year ended Jan 26, 2025: 30; fiscal year ended Jan 28, 2024: 30; fiscal year ended Jan 29, 2023: 30.
+NVIDIA fiscal 2025 10-K, (In millions) | Geographic Revenue based upon Customer Billing Location - Taiwan: fiscal year ended Jan 26, 2025: $20,573 million; fiscal year ended Jan 28, 2024: $13,405 million; fiscal year ended Jan 29, 2023: $6,986 million
 
-NVIDIA fiscal 2025 10-K, RSUs, PSUs and Market-based PSUs, ESPP. Weighted average price per share: fiscal year ended Jan 26, 2025: 17.74; fiscal year ended Jan 28, 2024: 15.81; fiscal year ended Jan 29, 2023: 12.25.
+NVIDIA fiscal 2025 10-K, (In millions) | Geographic Revenue based upon Customer Billing Location - China (including Hong Kong): fiscal year ended Jan 26, 2025: $17,108 million; fiscal year ended Jan 28, 2024: $10,306 million; fiscal year ended Jan 29, 2023: $5,785 million
 
-NVIDIA fiscal 2025 10-K, RSUs, PSUs and Market-based PSUs, ESPP. Weighted average grant-date fair value per share: fiscal year ended Jan 26, 2025: 8.61; fiscal year ended Jan 28, 2024: 6.99; fiscal year ended Jan 29, 2023: 5.19.
+NVIDIA fiscal 2025 10-K, (In millions) | Geographic Revenue based upon Customer Billing Location - Other: fiscal year ended Jan 26, 2025: $7,875 million; fiscal year ended Jan 28, 2024: $3,414 million; fiscal year ended Jan 29, 2023: $3,623 million
 
-NVIDIA fiscal 2025 10-K, (In millions, except per share data). Balance as of Jan 28, 2024: $367 million, $24.59 million.
+NVIDIA fiscal 2025 10-K, (In millions) | Geographic Revenue based upon Customer Billing Location - Total revenue: fiscal year ended Jan 26, 2025: $130,497 million; fiscal year ended Jan 28, 2024: $60,922 million; fiscal year ended Jan 29, 2023: $26,974 million
 
-NVIDIA fiscal 2025 10-K, (In millions, except per share data). Granted: $89 million, $87.99 million.
+NVIDIA fiscal 2025 10-K,  | Direct Customer A: fiscal year ended Jan 26, 2025: 12%; fiscal year ended Jan 28, 2024: *
 
-NVIDIA fiscal 2025 10-K, (In millions, except per share data). Vested: $(173) million, $24.89 million.
+NVIDIA fiscal 2025 10-K,  | Direct Customer B: fiscal year ended Jan 26, 2025: 11%; fiscal year ended Jan 28, 2024: 13%
 
-NVIDIA fiscal 2025 10-K, (In millions, except per share data). Canceled and forfeited: $(9) million, $32.10 million.
+NVIDIA fiscal 2025 10-K,  | Direct Customer C: fiscal year ended Jan 26, 2025: 11%; fiscal year ended Jan 28, 2024: *
 
-NVIDIA fiscal 2025 10-K, (In millions, except per share data). Balance as of Jan 26, 2025: $274 million, $44.75 million.
+NVIDIA fiscal 2025 10-K, (In millions) | Revenue by End Market - Data Center: fiscal year ended Jan 26, 2025: $115,186 million; fiscal year ended Jan 28, 2024: $47,525 million; fiscal year ended Jan 29, 2023: $15,005 million
 
-NVIDIA fiscal 2025 10-K, (In millions, except per share data). Vested and expected to vest after Jan 26, 2025: $272 million, $44.59 million.
+NVIDIA fiscal 2025 10-K, (In millions) | Revenue by End Market - Compute: fiscal year ended Jan 26, 2025: $102,196 million; fiscal year ended Jan 28, 2024: $38,950 million; fiscal year ended Jan 29, 2023: $11,317 million
 
-NVIDIA fiscal 2025 10-K, The following is a reconciliation of the denominator of the basic and diluted net income per share computations for the periods presented:, Numerator:. Net income: fiscal year ended Jan 26, 2025: 72,880; fiscal year ended Jan 28, 2024: 29,760; fiscal year ended Jan 29, 2023: 4,368.
+NVIDIA fiscal 2025 10-K, (In millions) | Revenue by End Market - Networking: fiscal year ended Jan 26, 2025: $12,990 million; fiscal year ended Jan 28, 2024: $8,575 million; fiscal year ended Jan 29, 2023: $3,688 million
 
-NVIDIA fiscal 2025 10-K, Numerator:, Denominator:. Basic weighted average shares: fiscal year ended Jan 26, 2025: 24,555; fiscal year ended Jan 28, 2024: 24,690; fiscal year ended Jan 29, 2023: 24,870.
+NVIDIA fiscal 2025 10-K, (In millions) | Revenue by End Market - Gaming: fiscal year ended Jan 26, 2025: $11,350 million; fiscal year ended Jan 28, 2024: $10,447 million; fiscal year ended Jan 29, 2023: $9,067 million
 
-NVIDIA fiscal 2025 10-K, Numerator:, Denominator:. Dilutive impact of outstanding equity awards: fiscal year ended Jan 26, 2025: 249; fiscal year ended Jan 28, 2024: 250; fiscal year ended Jan 29, 2023: 200.
+NVIDIA fiscal 2025 10-K, (In millions) | Revenue by End Market - Professional Visualization: fiscal year ended Jan 26, 2025: $1,878 million; fiscal year ended Jan 28, 2024: $1,553 million; fiscal year ended Jan 29, 2023: $1,544 million
 
-NVIDIA fiscal 2025 10-K, Numerator:, Denominator:. Diluted weighted average shares: fiscal year ended Jan 26, 2025: 24,804; fiscal year ended Jan 28, 2024: 24,940; fiscal year ended Jan 29, 2023: 25,070.
+NVIDIA fiscal 2025 10-K, (In millions) | Revenue by End Market - Automotive: fiscal year ended Jan 26, 2025: $1,694 million; fiscal year ended Jan 28, 2024: $1,091 million; fiscal year ended Jan 29, 2023: $903 million
 
-NVIDIA fiscal 2025 10-K, Denominator:, Net income per share:. Basic (1): fiscal year ended Jan 26, 2025: 2.97; fiscal year ended Jan 28, 2024: 1.21; fiscal year ended Jan 29, 2023: 0.18.
+NVIDIA fiscal 2025 10-K, (In millions) | Revenue by End Market - OEM and Other: fiscal year ended Jan 26, 2025: $389 million; fiscal year ended Jan 28, 2024: $306 million; fiscal year ended Jan 29, 2023: $455 million
 
-NVIDIA fiscal 2025 10-K, Denominator:, Net income per share:. Diluted (2): fiscal year ended Jan 26, 2025: 2.94; fiscal year ended Jan 28, 2024: 1.19; fiscal year ended Jan 29, 2023: 0.17.
+NVIDIA fiscal 2025 10-K, (In millions) | Revenue by End Market - Total revenue: fiscal year ended Jan 26, 2025: $130,497 million; fiscal year ended Jan 28, 2024: $60,922 million; fiscal year ended Jan 29, 2023: $26,974 million
 
-NVIDIA fiscal 2025 10-K, Net income per share:. Anti-dilutive equity awards excluded from diluted net income per share: fiscal year ended Jan 26, 2025: 51; fiscal year ended Jan 28, 2024: 150; fiscal year ended Jan 29, 2023: 400.
+NVIDIA fiscal 2025 10-K, (In millions) | Long-lived assets - United States: fiscal year ended Jan 26, 2025: $3,626 million; fiscal year ended Jan 28, 2024: $2,595 million
 
-NVIDIA fiscal 2025 10-K, Carrying. Amount - Acquisition-related intangible assets: fiscal year ended Jan 26, 2025: 2,900; fiscal year ended Jan 28, 2024: (2,264).
+NVIDIA fiscal 2025 10-K, (In millions) | Long-lived assets - Taiwan: fiscal year ended Jan 26, 2025: $1,481 million; fiscal year ended Jan 28, 2024: $773 million
 
-NVIDIA fiscal 2025 10-K, Carrying. Amount - Patents and licensed technology: fiscal year ended Jan 26, 2025: 449; fiscal year ended Jan 28, 2024: (278).
+NVIDIA fiscal 2025 10-K, (In millions) | Long-lived assets - Israel: fiscal year ended Jan 26, 2025: $840 million; fiscal year ended Jan 28, 2024: $325 million
 
-NVIDIA fiscal 2025 10-K, Carrying. Amount - Total intangible assets: fiscal year ended Jan 26, 2025: 3,349; fiscal year ended Jan 28, 2024: (2,542).
+NVIDIA fiscal 2025 10-K, (In millions) | Long-lived assets - Other: fiscal year ended Jan 26, 2025: $336 million; fiscal year ended Jan 28, 2024: $221 million
 
-NVIDIA fiscal 2025 10-K, The following table outlines the estimated future amortization expense related to the net carrying amount of intangible assets as of January 26, 2025:, Fiscal Year:. 2031 and thereafter: fiscal year ended Jan 26, 2025: 92.
-
-NVIDIA fiscal 2025 10-K, The following table outlines the estimated future amortization expense related to the net carrying amount of intangible assets as of January 26, 2025:, Fiscal Year:. Total: fiscal year ended Jan 26, 2025: 807.
-
-NVIDIA fiscal 2025 10-K, The following is a summary of cash equivalents and marketable securities:. Amortized - Corporate debt securities: fiscal year ended Jan 26, 2025: 18,504.
-
-NVIDIA fiscal 2025 10-K, The following is a summary of cash equivalents and marketable securities:. Amortized - Debt securities issued by the U.S. Treasury: fiscal year ended Jan 26, 2025: 16,749.
-
-NVIDIA fiscal 2025 10-K, The following is a summary of cash equivalents and marketable securities:. Amortized - Money market funds: fiscal year ended Jan 26, 2025: 3,760.
-
-NVIDIA fiscal 2025 10-K, The following is a summary of cash equivalents and marketable securities:. Amortized - Debt securities issued by U.S. government agencies: fiscal year ended Jan 26, 2025: 2,775.
-
-NVIDIA fiscal 2025 10-K, The following is a summary of cash equivalents and marketable securities:. Amortized - Foreign government bonds: fiscal year ended Jan 26, 2025: 177.
-
-NVIDIA fiscal 2025 10-K, The following is a summary of cash equivalents and marketable securities:. Amortized - Certificates of deposit: fiscal year ended Jan 26, 2025: 97.
-
-NVIDIA fiscal 2025 10-K, The following is a summary of cash equivalents and marketable securities:. Amortized - Total debt securities with fair value adjustments recorded in other comprehensive income: fiscal year ended Jan 26, 2025: 42,062.
-
-NVIDIA fiscal 2025 10-K, The following is a summary of cash equivalents and marketable securities:. Amortized - Publicly-held equity securities (1): fiscal year ended Jan 26, 2025: 381.
-
-NVIDIA fiscal 2025 10-K, The following is a summary of cash equivalents and marketable securities:. Amortized - Total: fiscal year ended Jan 26, 2025: 42,062.
-
-NVIDIA fiscal 2025 10-K, (Continued). Amortized - Corporate debt securities: fiscal year ended Jan 28, 2024: 10,126.
-
-NVIDIA fiscal 2025 10-K, (Continued). Amortized - Debt securities issued by the U.S. Treasury: fiscal year ended Jan 28, 2024: 9,517.
-
-NVIDIA fiscal 2025 10-K, (Continued). Amortized - Money market funds: fiscal year ended Jan 28, 2024: 3,031.
-
-NVIDIA fiscal 2025 10-K, (Continued). Amortized - Debt securities issued by U.S. government agencies: fiscal year ended Jan 28, 2024: 2,326.
-
-NVIDIA fiscal 2025 10-K, (Continued). Amortized - Certificates of deposit: fiscal year ended Jan 28, 2024: 510.
-
-NVIDIA fiscal 2025 10-K, (Continued). Amortized - Foreign government bonds: fiscal year ended Jan 28, 2024: 174.
-
-NVIDIA fiscal 2025 10-K, (Continued). Amortized - Total debt securities with fair value changes recorded in other comprehensive income: fiscal year ended Jan 28, 2024: 25,684.
-
-NVIDIA fiscal 2025 10-K, . Jan 26, 2025 - Debt securities issued by the U.S. Treasury: 6,315, (22), 177, —, 6,492, (22).
-
-NVIDIA fiscal 2025 10-K, . Jan 26, 2025 - Corporate debt securities: 5,291, (29), 15, —, 5,306, (29).
-
-NVIDIA fiscal 2025 10-K, . Jan 26, 2025 - Debt securities issued by U.S. government agencies: 816, (5), 21, —, 837, (5).
-
-NVIDIA fiscal 2025 10-K, . Jan 26, 2025 - Total: 12,422, (56), 213, —, 12,635, (56).
-
-NVIDIA fiscal 2025 10-K, . Jan 28, 2024 - Debt securities issued by the U.S. Treasury: 3,343, (5), 1,078, (5), 4,421, (10).
-
-NVIDIA fiscal 2025 10-K, . Jan 28, 2024 - Corporate debt securities: 1,306, (3), 618, (2), 1,924, (5).
-
-NVIDIA fiscal 2025 10-K, . Jan 28, 2024 - Debt securities issued by U.S. government agencies: 670, (1), —, —, 670, (1).
-
-NVIDIA fiscal 2025 10-K, . Jan 28, 2024 - Total: 5,319, (9), 1,696, (7), 7,015, (16).
-
-NVIDIA fiscal 2025 10-K, Notes to the Consolidated Financial Statements. Fair Value - Less than one year: fiscal year ended Jan 26, 2025: 18,426; fiscal year ended Jan 28, 2024: 18,450.
-
-NVIDIA fiscal 2025 10-K, Notes to the Consolidated Financial Statements. Fair Value - Due in 1 - 5 years: fiscal year ended Jan 26, 2025: 23,636; fiscal year ended Jan 28, 2024: 23,656.
-
-NVIDIA fiscal 2025 10-K, Notes to the Consolidated Financial Statements. Fair Value - Total: fiscal year ended Jan 26, 2025: 42,062; fiscal year ended Jan 28, 2024: 42,106.
-
-NVIDIA fiscal 2025 10-K, Assets, Cash equivalents and marketable securities:. Money market funds: 3,760, 3,031.
-
-NVIDIA fiscal 2025 10-K, Assets, Cash equivalents and marketable securities:. Publicly-held equity securities: 381, —.
-
-NVIDIA fiscal 2025 10-K, Assets, Cash equivalents and marketable securities:. Corporate debt securities: 18,526, 10,152.
-
-NVIDIA fiscal 2025 10-K, Assets, Cash equivalents and marketable securities:. Debt securities issued by the U.S. Treasury: 16,769, 9,524.
-
-NVIDIA fiscal 2025 10-K, Assets, Cash equivalents and marketable securities:. Debt securities issued by U.S. government agencies: 2,777, 2,333.
-
-NVIDIA fiscal 2025 10-K, Assets, Cash equivalents and marketable securities:. Foreign government bonds: 177, 174.
-
-NVIDIA fiscal 2025 10-K, Assets, Cash equivalents and marketable securities:. Certificates of deposit: 97, 510.
-
-NVIDIA fiscal 2025 10-K, Cash equivalents and marketable securities:, Other assets:. Publicly-held equity securities: —, 225.
-
-NVIDIA fiscal 2025 10-K, Liabilities (1). 0.584 % Notes Due 2024: —, 1,228.
-
-NVIDIA fiscal 2025 10-K, Liabilities (1). 3.20 % Notes Due 2026: 982, 970.
-
-NVIDIA fiscal 2025 10-K, Liabilities (1). 1.55 % Notes Due 2028: 1,136, 1,115.
-
-NVIDIA fiscal 2025 10-K, Liabilities (1). 2.85 % Notes Due 2030: 1,376, 1,367.
-
-NVIDIA fiscal 2025 10-K, Liabilities (1). 2.00 % Notes Due 2031: 1,064, 1,057.
-
-NVIDIA fiscal 2025 10-K, Liabilities (1). 3.50 % Notes Due 2040: 824, 851.
-
-NVIDIA fiscal 2025 10-K, Liabilities (1). 3.50 % Notes Due 2050: 1,482, 1,604.
-
-NVIDIA fiscal 2025 10-K, Liabilities (1). 3.70 % Notes Due 2060: 367, 403.
-
-NVIDIA fiscal 2025 10-K, Adjustments to the carrying value of our non-marketable equity securities during fiscal years 2025 and 2024 were as follows:, (In millions). Balance at beginning of period: fiscal year ended Jan 26, 2025: $1,321 million; fiscal year ended Jan 28, 2024: $288 million.
-
-NVIDIA fiscal 2025 10-K, (In millions), Adjustments related to non-marketable equity securities:. Net additions: fiscal year ended Jan 26, 2025: $1,309 million; fiscal year ended Jan 28, 2024: $859 million.
-
-NVIDIA fiscal 2025 10-K, (In millions), Adjustments related to non-marketable equity securities:. Unrealized gains: fiscal year ended Jan 26, 2025: $816 million; fiscal year ended Jan 28, 2024: $194 million.
-
-NVIDIA fiscal 2025 10-K, (In millions), Adjustments related to non-marketable equity securities:. Impairments and unrealized losses: fiscal year ended Jan 26, 2025: $(59) million; fiscal year ended Jan 28, 2024: $(20) million.
-
-NVIDIA fiscal 2025 10-K, (In millions), Adjustments related to non-marketable equity securities:. Balance at end of period: fiscal year ended Jan 26, 2025: $3,387 million; fiscal year ended Jan 28, 2024: $1,321 million.
-
-NVIDIA fiscal 2025 10-K, Certain balance sheet components are as follows:. Inventories - Raw materials: fiscal year ended Jan 26, 2025: 3,408; fiscal year ended Jan 28, 2024: 1,719.
-
-NVIDIA fiscal 2025 10-K, Certain balance sheet components are as follows:. Inventories - Work in process: fiscal year ended Jan 26, 2025: 3,399; fiscal year ended Jan 28, 2024: 1,505.
-
-NVIDIA fiscal 2025 10-K, Certain balance sheet components are as follows:. Inventories - Finished goods: fiscal year ended Jan 26, 2025: 3,273; fiscal year ended Jan 28, 2024: 2,058.
-
-NVIDIA fiscal 2025 10-K, Certain balance sheet components are as follows:. Inventories - Total inventories (1): fiscal year ended Jan 26, 2025: 10,080; fiscal year ended Jan 28, 2024: 5,282.
-
-NVIDIA fiscal 2025 10-K, (1) In fiscal years 2025 and 2024, we recorded an inventory provision of $ 1.6 billion and $ 774 million, respectively, in cost of revenue., Useful Life. Property and Equipment - Land: fiscal year ended Jan 26, 2025: $511 million; fiscal year ended Jan 28, 2024: $218 million.
-
-NVIDIA fiscal 2025 10-K, (1) In fiscal years 2025 and 2024, we recorded an inventory provision of $ 1.6 billion and $ 774 million, respectively, in cost of revenue., Useful Life. Property and Equipment - Buildings, leasehold improvements, and furniture: fiscal year ended Jan 26, 2025: $2,076 million; fiscal year ended Jan 28, 2024: $1,816 million.
-
-NVIDIA fiscal 2025 10-K, (1) In fiscal years 2025 and 2024, we recorded an inventory provision of $ 1.6 billion and $ 774 million, respectively, in cost of revenue., Useful Life. Property and Equipment - Equipment, compute hardware, and software: fiscal year ended Jan 26, 2025: $7,568 million; fiscal year ended Jan 28, 2024: $5,200 million.
-
-NVIDIA fiscal 2025 10-K, (1) In fiscal years 2025 and 2024, we recorded an inventory provision of $ 1.6 billion and $ 774 million, respectively, in cost of revenue., Useful Life. Property and Equipment - Construction in process: fiscal year ended Jan 26, 2025: $529 million; fiscal year ended Jan 28, 2024: $189 million.
-
-NVIDIA fiscal 2025 10-K, (1) In fiscal years 2025 and 2024, we recorded an inventory provision of $ 1.6 billion and $ 774 million, respectively, in cost of revenue., Useful Life. Property and Equipment - Total property and equipment, gross: fiscal year ended Jan 26, 2025: $10,684 million; fiscal year ended Jan 28, 2024: $7,423 million.
-
-NVIDIA fiscal 2025 10-K, (1) In fiscal years 2025 and 2024, we recorded an inventory provision of $ 1.6 billion and $ 774 million, respectively, in cost of revenue., Useful Life. Property and Equipment - Accumulated depreciation and amortization: fiscal year ended Jan 26, 2025: $(4,401) million; fiscal year ended Jan 28, 2024: $(3,509) million.
-
-NVIDIA fiscal 2025 10-K, (1) In fiscal years 2025 and 2024, we recorded an inventory provision of $ 1.6 billion and $ 774 million, respectively, in cost of revenue., Useful Life. Property and Equipment - Total property and equipment, net: fiscal year ended Jan 26, 2025: $6,283 million; fiscal year ended Jan 28, 2024: $3,914 million.
-
-NVIDIA fiscal 2025 10-K, . Other Assets (Long Term) - Non-marketable equity securities: fiscal year ended Jan 26, 2025: 3,387; fiscal year ended Jan 28, 2024: 1,321.
-
-NVIDIA fiscal 2025 10-K, . Other Assets (Long Term) - Prepaid supply and capacity agreements (1): fiscal year ended Jan 26, 2025: 1,747; fiscal year ended Jan 28, 2024: 2,458.
-
-NVIDIA fiscal 2025 10-K, . Other Assets (Long Term) - Income tax receivable: fiscal year ended Jan 26, 2025: 750; fiscal year ended Jan 28, 2024: —.
-
-NVIDIA fiscal 2025 10-K, . Other Assets (Long Term) - Prepaid royalties: fiscal year ended Jan 26, 2025: 340; fiscal year ended Jan 28, 2024: 364.
-
-NVIDIA fiscal 2025 10-K, . Other Assets (Long Term) - Other: fiscal year ended Jan 26, 2025: 201; fiscal year ended Jan 28, 2024: 357.
-
-NVIDIA fiscal 2025 10-K, . Other Assets (Long Term) - Total other assets: fiscal year ended Jan 26, 2025: 6,425; fiscal year ended Jan 28, 2024: 4,500.
-
-NVIDIA fiscal 2025 10-K, . Accrued and Other Current Liabilities - Customer program accruals: fiscal year ended Jan 26, 2025: 4,880; fiscal year ended Jan 28, 2024: 2,081.
-
-NVIDIA fiscal 2025 10-K, . Accrued and Other Current Liabilities - Excess inventory purchase obligations (1): fiscal year ended Jan 26, 2025: 2,095; fiscal year ended Jan 28, 2024: 1,655.
-
-NVIDIA fiscal 2025 10-K, . Accrued and Other Current Liabilities - Product warranty and return provisions: fiscal year ended Jan 26, 2025: 1,373; fiscal year ended Jan 28, 2024: 415.
-
-NVIDIA fiscal 2025 10-K, . Accrued and Other Current Liabilities - Taxes payable: fiscal year ended Jan 26, 2025: 881; fiscal year ended Jan 28, 2024: 296.
-
-NVIDIA fiscal 2025 10-K, . Accrued and Other Current Liabilities - Accrued payroll and related expenses: fiscal year ended Jan 26, 2025: 848; fiscal year ended Jan 28, 2024: 675.
-
-NVIDIA fiscal 2025 10-K, . Accrued and Other Current Liabilities - Deferred revenue (2): fiscal year ended Jan 26, 2025: 837; fiscal year ended Jan 28, 2024: 764.
-
-NVIDIA fiscal 2025 10-K, . Accrued and Other Current Liabilities - Operating leases: fiscal year ended Jan 26, 2025: 288; fiscal year ended Jan 28, 2024: 228.
-
-NVIDIA fiscal 2025 10-K, . Accrued and Other Current Liabilities - Licenses and royalties: fiscal year ended Jan 26, 2025: 175; fiscal year ended Jan 28, 2024: 182.
-
-NVIDIA fiscal 2025 10-K, . Accrued and Other Current Liabilities - Unsettled share repurchases: fiscal year ended Jan 26, 2025: 132; fiscal year ended Jan 28, 2024: 187.
-
-NVIDIA fiscal 2025 10-K, . Accrued and Other Current Liabilities - Other: fiscal year ended Jan 26, 2025: 228; fiscal year ended Jan 28, 2024: 199.
-
-NVIDIA fiscal 2025 10-K, . Accrued and Other Current Liabilities - Total accrued and other current liabilities: fiscal year ended Jan 26, 2025: 11,737; fiscal year ended Jan 28, 2024: 6,682.
-
-NVIDIA fiscal 2025 10-K, . Other Long-Term Liabilities - Income tax payable (1): fiscal year ended Jan 26, 2025: 2,188; fiscal year ended Jan 28, 2024: 1,361.
-
-NVIDIA fiscal 2025 10-K, . Other Long-Term Liabilities - Deferred revenue (2): fiscal year ended Jan 26, 2025: 976; fiscal year ended Jan 28, 2024: 573.
-
-NVIDIA fiscal 2025 10-K, . Other Long-Term Liabilities - Deferred income tax: fiscal year ended Jan 26, 2025: 886; fiscal year ended Jan 28, 2024: 462.
-
-NVIDIA fiscal 2025 10-K, . Other Long-Term Liabilities - Licenses payable: fiscal year ended Jan 26, 2025: 116; fiscal year ended Jan 28, 2024: 80.
-
-NVIDIA fiscal 2025 10-K, . Other Long-Term Liabilities - Other: fiscal year ended Jan 26, 2025: 79; fiscal year ended Jan 28, 2024: 65.
-
-NVIDIA fiscal 2025 10-K, . Other Long-Term Liabilities - Total other long-term liabilities: fiscal year ended Jan 26, 2025: 4,245; fiscal year ended Jan 28, 2024: 2,541.
-
-NVIDIA fiscal 2025 10-K, The following table shows the changes in short- and long-term deferred revenue during fiscal years 2025 and 2024:, (In millions). Balance at beginning of period: fiscal year ended Jan 26, 2025: $1,337 million; fiscal year ended Jan 28, 2024: $572 million.
-
-NVIDIA fiscal 2025 10-K, The following table shows the changes in short- and long-term deferred revenue during fiscal years 2025 and 2024:, (In millions). Deferred revenue additions (1): fiscal year ended Jan 26, 2025: $5,083 million; fiscal year ended Jan 28, 2024: $2,038 million.
-
-NVIDIA fiscal 2025 10-K, The following table shows the changes in short- and long-term deferred revenue during fiscal years 2025 and 2024:, (In millions). Revenue recognized (2): fiscal year ended Jan 26, 2025: $(4,607) million; fiscal year ended Jan 28, 2024: $(1,273) million.
-
-NVIDIA fiscal 2025 10-K, The following table shows the changes in short- and long-term deferred revenue during fiscal years 2025 and 2024:, (In millions). Balance at end of period: fiscal year ended Jan 26, 2025: $1,813 million; fiscal year ended Jan 28, 2024: $1,337 million.
-
-NVIDIA fiscal 2025 10-K, The table below presents the notional value of our foreign currency contracts outstanding:. Designated as accounting hedges: fiscal year ended Jan 26, 2025: 1,424; fiscal year ended Jan 28, 2024: 1,168.
-
-NVIDIA fiscal 2025 10-K, The table below presents the notional value of our foreign currency contracts outstanding:. Not designated as accounting hedges: fiscal year ended Jan 26, 2025: 1,297; fiscal year ended Jan 28, 2024: 597.
-
-NVIDIA fiscal 2025 10-K, Note 11 - Debt. 0.584 % Notes Due 2024 (1): —, —, 1,250.
-
-NVIDIA fiscal 2025 10-K, Note 11 - Debt. 3.20 % Notes Due 2026: 1.6, 1,000, 1,000.
-
-NVIDIA fiscal 2025 10-K, Note 11 - Debt. 1.55 % Notes Due 2028: 3.4, 1,250, 1,250.
-
-NVIDIA fiscal 2025 10-K, Note 11 - Debt. 2.85 % Notes Due 2030: 5.2, 1,500, 1,500.
-
-NVIDIA fiscal 2025 10-K, Note 11 - Debt. 2.00 % Notes Due 2031: 6.4, 1,250, 1,250.
-
-NVIDIA fiscal 2025 10-K, Note 11 - Debt. 3.50 % Notes Due 2040: 15.2, 1,000, 1,000.
-
-NVIDIA fiscal 2025 10-K, Note 11 - Debt. 3.50 % Notes Due 2050: 25.2, 2,000, 2,000.
-
-NVIDIA fiscal 2025 10-K, Note 11 - Debt. 3.70 % Notes Due 2060: 35.2, 500, 500.
-
-NVIDIA fiscal 2025 10-K, Note 11 - Debt. Unamortized debt discount and issuance costs: (37), (41).
-
-NVIDIA fiscal 2025 10-K, Note 11 - Debt. Net carrying amount: 8,463, 9,709.
-
-NVIDIA fiscal 2025 10-K, Note 11 - Debt. Less short-term portion: —, (1,250).
-
-NVIDIA fiscal 2025 10-K, Note 11 - Debt. Total long-term portion: 8,463, 8,459.
-
-NVIDIA fiscal 2025 10-K, Total future purchase commitments as of January 26, 2025 are as follows:, Fiscal Year:. 2031 and thereafter: 218.
-
-NVIDIA fiscal 2025 10-K, Total future purchase commitments as of January 26, 2025 are as follows:, Fiscal Year:. Total: 45,079.
-
-NVIDIA fiscal 2025 10-K, (In millions). Balance at beginning of period: fiscal year ended Jan 26, 2025: $306 million; fiscal year ended Jan 28, 2024: $82 million; fiscal year ended Jan 29, 2023: $46 million.
-
-NVIDIA fiscal 2025 10-K, (In millions). Additions: fiscal year ended Jan 26, 2025: $1,203 million; fiscal year ended Jan 28, 2024: $278 million; fiscal year ended Jan 29, 2023: $145 million.
-
-NVIDIA fiscal 2025 10-K, (In millions). Utilization: fiscal year ended Jan 26, 2025: $(219) million; fiscal year ended Jan 28, 2024: $(54) million; fiscal year ended Jan 29, 2023: $(109) million.
-
-NVIDIA fiscal 2025 10-K, (In millions). Balance at end of period: fiscal year ended Jan 26, 2025: $1,290 million; fiscal year ended Jan 28, 2024: $306 million; fiscal year ended Jan 29, 2023: $82 million.
-
-NVIDIA fiscal 2025 10-K, The income tax expense (benefit) applicable to income before income taxes consists of the following:, Current income taxes:. Federal: fiscal year ended Jan 26, 2025: 14,032; fiscal year ended Jan 28, 2024: 5,710; fiscal year ended Jan 29, 2023: 1,703.
-
-NVIDIA fiscal 2025 10-K, The income tax expense (benefit) applicable to income before income taxes consists of the following:, Current income taxes:. State: fiscal year ended Jan 26, 2025: 892; fiscal year ended Jan 28, 2024: 335; fiscal year ended Jan 29, 2023: 46.
-
-NVIDIA fiscal 2025 10-K, The income tax expense (benefit) applicable to income before income taxes consists of the following:, Current income taxes:. Foreign: fiscal year ended Jan 26, 2025: 699; fiscal year ended Jan 28, 2024: 502; fiscal year ended Jan 29, 2023: 228.
-
-NVIDIA fiscal 2025 10-K, The income tax expense (benefit) applicable to income before income taxes consists of the following:, Current income taxes:. Total current: fiscal year ended Jan 26, 2025: 15,623; fiscal year ended Jan 28, 2024: 6,547; fiscal year ended Jan 29, 2023: 1,977.
-
-NVIDIA fiscal 2025 10-K, Current income taxes:, Deferred income taxes:. Federal: fiscal year ended Jan 26, 2025: (4,515); fiscal year ended Jan 28, 2024: (2,499); fiscal year ended Jan 29, 2023: (2,165).
-
-NVIDIA fiscal 2025 10-K, Current income taxes:, Deferred income taxes:. State: fiscal year ended Jan 26, 2025: (242); fiscal year ended Jan 28, 2024: (206); fiscal year ended Jan 29, 2023: —.
-
-NVIDIA fiscal 2025 10-K, Current income taxes:, Deferred income taxes:. Foreign: fiscal year ended Jan 26, 2025: 280; fiscal year ended Jan 28, 2024: 216; fiscal year ended Jan 29, 2023: 1.
-
-NVIDIA fiscal 2025 10-K, Current income taxes:, Deferred income taxes:. Total deferred: fiscal year ended Jan 26, 2025: (4,477); fiscal year ended Jan 28, 2024: (2,489); fiscal year ended Jan 29, 2023: (2,164).
-
-NVIDIA fiscal 2025 10-K, Current income taxes:, Deferred income taxes:. Income tax expense (benefit): fiscal year ended Jan 26, 2025: 11,146; fiscal year ended Jan 28, 2024: 4,058; fiscal year ended Jan 29, 2023: (187).
-
-NVIDIA fiscal 2025 10-K, Deferred income taxes:. Income before income tax consists of the following - U.S.: fiscal year ended Jan 26, 2025: 77,456; fiscal year ended Jan 28, 2024: 29,495; fiscal year ended Jan 29, 2023: 3,477.
-
-NVIDIA fiscal 2025 10-K, Deferred income taxes:. Income before income tax consists of the following - Foreign: fiscal year ended Jan 26, 2025: 6,570; fiscal year ended Jan 28, 2024: 4,323; fiscal year ended Jan 29, 2023: 704.
-
-NVIDIA fiscal 2025 10-K, Deferred income taxes:. Income before income tax consists of the following - Income before income tax: fiscal year ended Jan 26, 2025: 84,026; fiscal year ended Jan 28, 2024: 33,818; fiscal year ended Jan 29, 2023: 4,181.
-
-NVIDIA fiscal 2025 10-K, Deferred income taxes:, The income tax expense (benefit) differs from the amount computed by applying the U.S. federal statutory rate of 21% to income before income taxes as follows:. Tax expense computed at federal statutory rate: fiscal year ended Jan 26, 2025: 17,645; fiscal year ended Jan 28, 2024: 21.0%; fiscal year ended Jan 29, 2023: 7,102.
-
-NVIDIA fiscal 2025 10-K, The income tax expense (benefit) differs from the amount computed by applying the U.S. federal statutory rate of 21% to income before income taxes as follows:, Expense (benefit) resulting from:. State income taxes, net of federal tax effect: fiscal year ended Jan 26, 2025: 554; fiscal year ended Jan 28, 2024: 0.7%; fiscal year ended Jan 29, 2023: 120.
-
-NVIDIA fiscal 2025 10-K, The income tax expense (benefit) differs from the amount computed by applying the U.S. federal statutory rate of 21% to income before income taxes as follows:, Expense (benefit) resulting from:. Foreign-derived intangible income: fiscal year ended Jan 26, 2025: (2,976); fiscal year ended Jan 28, 2024: (3.5)%; fiscal year ended Jan 29, 2023: (1,408).
-
-NVIDIA fiscal 2025 10-K, The income tax expense (benefit) differs from the amount computed by applying the U.S. federal statutory rate of 21% to income before income taxes as follows:, Expense (benefit) resulting from:. Stock-based compensation: fiscal year ended Jan 26, 2025: (2,097); fiscal year ended Jan 28, 2024: (2.5)%; fiscal year ended Jan 29, 2023: (741).
-
-NVIDIA fiscal 2025 10-K, The income tax expense (benefit) differs from the amount computed by applying the U.S. federal statutory rate of 21% to income before income taxes as follows:, Expense (benefit) resulting from:. U.S. federal research and development tax credit: fiscal year ended Jan 26, 2025: (990); fiscal year ended Jan 28, 2024: (1.2)%; fiscal year ended Jan 29, 2023: (431).
-
-NVIDIA fiscal 2025 10-K, The income tax expense (benefit) differs from the amount computed by applying the U.S. federal statutory rate of 21% to income before income taxes as follows:, Expense (benefit) resulting from:. Foreign tax rate differential: fiscal year ended Jan 26, 2025: (984); fiscal year ended Jan 28, 2024: (1.2)%; fiscal year ended Jan 29, 2023: (467).
-
-NVIDIA fiscal 2025 10-K, The income tax expense (benefit) differs from the amount computed by applying the U.S. federal statutory rate of 21% to income before income taxes as follows:, Expense (benefit) resulting from:. Acquisition termination cost: fiscal year ended Jan 26, 2025: —; fiscal year ended Jan 28, 2024: —%; fiscal year ended Jan 29, 2023: —.
-
-NVIDIA fiscal 2025 10-K, The income tax expense (benefit) differs from the amount computed by applying the U.S. federal statutory rate of 21% to income before income taxes as follows:, Expense (benefit) resulting from:. Other: fiscal year ended Jan 26, 2025: (6); fiscal year ended Jan 28, 2024: —%; fiscal year ended Jan 29, 2023: (117).
-
-NVIDIA fiscal 2025 10-K, The income tax expense (benefit) differs from the amount computed by applying the U.S. federal statutory rate of 21% to income before income taxes as follows:, Expense (benefit) resulting from:. Income tax expense (benefit): fiscal year ended Jan 26, 2025: 11,146; fiscal year ended Jan 28, 2024: 13.3%; fiscal year ended Jan 29, 2023: 4,058.
-
-NVIDIA fiscal 2025 10-K, The tax effect of temporary differences that gives rise to significant portions of the deferred tax assets and liabilities are presented below:, Deferred tax assets:. Capitalized research and development expenditure: fiscal year ended Jan 26, 2025: 6,256; fiscal year ended Jan 28, 2024: 3,376.
-
-NVIDIA fiscal 2025 10-K, The tax effect of temporary differences that gives rise to significant portions of the deferred tax assets and liabilities are presented below:, Deferred tax assets:. GILTI deferred tax assets: fiscal year ended Jan 26, 2025: 2,820; fiscal year ended Jan 28, 2024: 1,576.
-
-NVIDIA fiscal 2025 10-K, The tax effect of temporary differences that gives rise to significant portions of the deferred tax assets and liabilities are presented below:, Deferred tax assets:. Accruals and reserves, not currently deductible for tax purposes: fiscal year ended Jan 26, 2025: 2,058; fiscal year ended Jan 28, 2024: 1,121.
-
-NVIDIA fiscal 2025 10-K, The tax effect of temporary differences that gives rise to significant portions of the deferred tax assets and liabilities are presented below:, Deferred tax assets:. Research and other tax credit carryforwards: fiscal year ended Jan 26, 2025: 759; fiscal year ended Jan 28, 2024: 936.
-
-NVIDIA fiscal 2025 10-K, The tax effect of temporary differences that gives rise to significant portions of the deferred tax assets and liabilities are presented below:, Deferred tax assets:. Net operating loss and capital loss carryforwards: fiscal year ended Jan 26, 2025: 456; fiscal year ended Jan 28, 2024: 439.
-
-NVIDIA fiscal 2025 10-K, The tax effect of temporary differences that gives rise to significant portions of the deferred tax assets and liabilities are presented below:, Deferred tax assets:. Operating lease liabilities: fiscal year ended Jan 26, 2025: 299; fiscal year ended Jan 28, 2024: 263.
-
-NVIDIA fiscal 2025 10-K, The tax effect of temporary differences that gives rise to significant portions of the deferred tax assets and liabilities are presented below:, Deferred tax assets:. Stock-based compensation: fiscal year ended Jan 26, 2025: 124; fiscal year ended Jan 28, 2024: 106.
-
-NVIDIA fiscal 2025 10-K, The tax effect of temporary differences that gives rise to significant portions of the deferred tax assets and liabilities are presented below:, Deferred tax assets:. Property, equipment and intangible assets: fiscal year ended Jan 26, 2025: 82; fiscal year ended Jan 28, 2024: 64.
-
-NVIDIA fiscal 2025 10-K, The tax effect of temporary differences that gives rise to significant portions of the deferred tax assets and liabilities are presented below:, Deferred tax assets:. Other deferred tax assets: fiscal year ended Jan 26, 2025: 360; fiscal year ended Jan 28, 2024: 179.
-
-NVIDIA fiscal 2025 10-K, The tax effect of temporary differences that gives rise to significant portions of the deferred tax assets and liabilities are presented below:, Deferred tax assets:. Gross deferred tax assets: fiscal year ended Jan 26, 2025: 13,214; fiscal year ended Jan 28, 2024: 8,060.
-
-NVIDIA fiscal 2025 10-K, The tax effect of temporary differences that gives rise to significant portions of the deferred tax assets and liabilities are presented below:, Deferred tax assets:. Less valuation allowance: fiscal year ended Jan 26, 2025: (1,610); fiscal year ended Jan 28, 2024: (1,552).
-
-NVIDIA fiscal 2025 10-K, The tax effect of temporary differences that gives rise to significant portions of the deferred tax assets and liabilities are presented below:, Deferred tax assets:. Total deferred tax assets: fiscal year ended Jan 26, 2025: 11,604; fiscal year ended Jan 28, 2024: 6,508.
-
-NVIDIA fiscal 2025 10-K, Deferred tax assets:, Deferred tax liabilities:. Unremitted earnings of foreign subsidiaries: fiscal year ended Jan 26, 2025: (891); fiscal year ended Jan 28, 2024: (502).
-
-NVIDIA fiscal 2025 10-K, Deferred tax assets:, Deferred tax liabilities:. Operating lease assets: fiscal year ended Jan 26, 2025: (286); fiscal year ended Jan 28, 2024: (255).
-
-NVIDIA fiscal 2025 10-K, Deferred tax assets:, Deferred tax liabilities:. Equity investments: fiscal year ended Jan 26, 2025: (264); fiscal year ended Jan 28, 2024: (60).
-
-NVIDIA fiscal 2025 10-K, Deferred tax assets:, Deferred tax liabilities:. Acquired intangibles: fiscal year ended Jan 26, 2025: (70); fiscal year ended Jan 28, 2024: (74).
-
-NVIDIA fiscal 2025 10-K, Deferred tax assets:, Deferred tax liabilities:. Gross deferred tax liabilities: fiscal year ended Jan 26, 2025: (1,511); fiscal year ended Jan 28, 2024: (891).
-
-NVIDIA fiscal 2025 10-K, Deferred tax assets:, Deferred tax liabilities:. Net deferred tax asset (1): fiscal year ended Jan 26, 2025: 10,093; fiscal year ended Jan 28, 2024: 5,617.
-
-NVIDIA fiscal 2025 10-K, . A reconciliation of gross unrecognized tax benefits is as follows - Balance at beginning of period: fiscal year ended Jan 26, 2025: 1,670; fiscal year ended Jan 28, 2024: 1,238; fiscal year ended Jan 29, 2023: 1,013.
-
-NVIDIA fiscal 2025 10-K, . A reconciliation of gross unrecognized tax benefits is as follows - Increases in tax positions for current year: fiscal year ended Jan 26, 2025: 1,268; fiscal year ended Jan 28, 2024: 616; fiscal year ended Jan 29, 2023: 268.
-
-NVIDIA fiscal 2025 10-K, . A reconciliation of gross unrecognized tax benefits is as follows - Increases in tax positions for prior years: fiscal year ended Jan 26, 2025: 48; fiscal year ended Jan 28, 2024: 87; fiscal year ended Jan 29, 2023: 1.
-
-NVIDIA fiscal 2025 10-K, . A reconciliation of gross unrecognized tax benefits is as follows - Decreases in tax positions for prior years: fiscal year ended Jan 26, 2025: (88); fiscal year ended Jan 28, 2024: (148); fiscal year ended Jan 29, 2023: (15).
-
-NVIDIA fiscal 2025 10-K, . A reconciliation of gross unrecognized tax benefits is as follows - Lapse in statute of limitations: fiscal year ended Jan 26, 2025: (27); fiscal year ended Jan 28, 2024: (19); fiscal year ended Jan 29, 2023: (20).
-
-NVIDIA fiscal 2025 10-K, . A reconciliation of gross unrecognized tax benefits is as follows - Settlements: fiscal year ended Jan 26, 2025: (10); fiscal year ended Jan 28, 2024: (104); fiscal year ended Jan 29, 2023: (9).
-
-NVIDIA fiscal 2025 10-K, . A reconciliation of gross unrecognized tax benefits is as follows - Balance at end of period: fiscal year ended Jan 26, 2025: 2,861; fiscal year ended Jan 28, 2024: 1,670; fiscal year ended Jan 29, 2023: 1,238.
-
-NVIDIA fiscal 2025 10-K, (In millions), Year Ended Jan 26, 2025. Revenue: $116,193 million, $14,304 million, —, $130,497 million.
-
-NVIDIA fiscal 2025 10-K, (In millions), Year Ended Jan 26, 2025. Other segment items (1): $33,318 million, $9,219 million.
-
-NVIDIA fiscal 2025 10-K, (In millions), Year Ended Jan 26, 2025. Operating income (loss): $82,875 million, $5,085 million, $(6,507) million, $81,453 million.
-
-NVIDIA fiscal 2025 10-K, Year Ended Jan 26, 2025, Year Ended Jan 28, 2024. Revenue: 47,405, 13,517, —, 60,922.
-
-NVIDIA fiscal 2025 10-K, Year Ended Jan 26, 2025, Year Ended Jan 28, 2024. Other segment items (1): 15,389, 7,671.
-
-NVIDIA fiscal 2025 10-K, Year Ended Jan 26, 2025, Year Ended Jan 28, 2024. Operating income (loss): 32,016, 5,846, (4,890), 32,972.
-
-NVIDIA fiscal 2025 10-K, Year Ended Jan 28, 2024, Year Ended Jan 29, 2023. Revenue: 15,068, 11,906, —, 26,974.
-
-NVIDIA fiscal 2025 10-K, Year Ended Jan 28, 2024, Year Ended Jan 29, 2023. Other segment items (1): 9,985, 7,354.
-
-NVIDIA fiscal 2025 10-K, Year Ended Jan 28, 2024, Year Ended Jan 29, 2023. Operating income (loss): 5,083, 4,552, (5,411), 4,224.
-
-NVIDIA fiscal 2025 10-K, . Reconciling items included in "All Other" category - Stock-based compensation expense: fiscal year ended Jan 26, 2025: (4,737); fiscal year ended Jan 28, 2024: (3,549); fiscal year ended Jan 29, 2023: (2,710).
-
-NVIDIA fiscal 2025 10-K, . Reconciling items included in "All Other" category - Unallocated cost of revenue and operating expenses: fiscal year ended Jan 26, 2025: (1,171); fiscal year ended Jan 28, 2024: (728); fiscal year ended Jan 29, 2023: (595).
-
-NVIDIA fiscal 2025 10-K, . Reconciling items included in "All Other" category - Acquisition-related and other costs: fiscal year ended Jan 26, 2025: (602); fiscal year ended Jan 28, 2024: (583); fiscal year ended Jan 29, 2023: (674).
-
-NVIDIA fiscal 2025 10-K, . Reconciling items included in "All Other" category - Acquisition termination cost: fiscal year ended Jan 26, 2025: —; fiscal year ended Jan 28, 2024: —; fiscal year ended Jan 29, 2023: (1,353).
-
-NVIDIA fiscal 2025 10-K, . Reconciling items included in "All Other" category - Other: fiscal year ended Jan 26, 2025: 3; fiscal year ended Jan 28, 2024: (30); fiscal year ended Jan 29, 2023: (79).
-
-NVIDIA fiscal 2025 10-K, . Reconciling items included in "All Other" category - Total: fiscal year ended Jan 26, 2025: (6,507); fiscal year ended Jan 28, 2024: (4,890); fiscal year ended Jan 29, 2023: (5,411).
-
-NVIDIA fiscal 2025 10-K, . Geographic Revenue based upon Customer Billing Location - United States: fiscal year ended Jan 26, 2025: 61,257; fiscal year ended Jan 28, 2024: 26,966; fiscal year ended Jan 29, 2023: 8,292.
-
-NVIDIA fiscal 2025 10-K, . Geographic Revenue based upon Customer Billing Location - Singapore (1): fiscal year ended Jan 26, 2025: 23,684; fiscal year ended Jan 28, 2024: 6,831; fiscal year ended Jan 29, 2023: 2,288.
-
-NVIDIA fiscal 2025 10-K, . Geographic Revenue based upon Customer Billing Location - Taiwan: fiscal year ended Jan 26, 2025: 20,573; fiscal year ended Jan 28, 2024: 13,405; fiscal year ended Jan 29, 2023: 6,986.
-
-NVIDIA fiscal 2025 10-K, . Geographic Revenue based upon Customer Billing Location - China (including Hong Kong): fiscal year ended Jan 26, 2025: 17,108; fiscal year ended Jan 28, 2024: 10,306; fiscal year ended Jan 29, 2023: 5,785.
-
-NVIDIA fiscal 2025 10-K, . Geographic Revenue based upon Customer Billing Location - Other: fiscal year ended Jan 26, 2025: 7,875; fiscal year ended Jan 28, 2024: 3,414; fiscal year ended Jan 29, 2023: 3,623.
-
-NVIDIA fiscal 2025 10-K, . Geographic Revenue based upon Customer Billing Location - Total revenue: fiscal year ended Jan 26, 2025: 130,497; fiscal year ended Jan 28, 2024: 60,922; fiscal year ended Jan 29, 2023: 26,974.
-
-NVIDIA fiscal 2025 10-K, . Direct Customer A: fiscal year ended Jan 26, 2025: 12%; fiscal year ended Jan 28, 2024: *.
-
-NVIDIA fiscal 2025 10-K, . Direct Customer B: fiscal year ended Jan 26, 2025: 11%; fiscal year ended Jan 28, 2024: 13%.
-
-NVIDIA fiscal 2025 10-K, . Direct Customer C: fiscal year ended Jan 26, 2025: 11%; fiscal year ended Jan 28, 2024: *.
-
-NVIDIA fiscal 2025 10-K, No customer represented 10% or more of total revenue for fiscal year 2023.. Revenue by End Market - Data Center: fiscal year ended Jan 26, 2025: 115,186; fiscal year ended Jan 28, 2024: 47,525; fiscal year ended Jan 29, 2023: 15,005.
-
-NVIDIA fiscal 2025 10-K, No customer represented 10% or more of total revenue for fiscal year 2023.. Revenue by End Market - Compute: fiscal year ended Jan 26, 2025: 102,196; fiscal year ended Jan 28, 2024: 38,950; fiscal year ended Jan 29, 2023: 11,317.
-
-NVIDIA fiscal 2025 10-K, No customer represented 10% or more of total revenue for fiscal year 2023.. Revenue by End Market - Networking: fiscal year ended Jan 26, 2025: 12,990; fiscal year ended Jan 28, 2024: 8,575; fiscal year ended Jan 29, 2023: 3,688.
-
-NVIDIA fiscal 2025 10-K, No customer represented 10% or more of total revenue for fiscal year 2023.. Revenue by End Market - Gaming: fiscal year ended Jan 26, 2025: 11,350; fiscal year ended Jan 28, 2024: 10,447; fiscal year ended Jan 29, 2023: 9,067.
-
-NVIDIA fiscal 2025 10-K, No customer represented 10% or more of total revenue for fiscal year 2023.. Revenue by End Market - Professional Visualization: fiscal year ended Jan 26, 2025: 1,878; fiscal year ended Jan 28, 2024: 1,553; fiscal year ended Jan 29, 2023: 1,544.
-
-NVIDIA fiscal 2025 10-K, No customer represented 10% or more of total revenue for fiscal year 2023.. Revenue by End Market - Automotive: fiscal year ended Jan 26, 2025: 1,694; fiscal year ended Jan 28, 2024: 1,091; fiscal year ended Jan 29, 2023: 903.
-
-NVIDIA fiscal 2025 10-K, No customer represented 10% or more of total revenue for fiscal year 2023.. Revenue by End Market - OEM and Other: fiscal year ended Jan 26, 2025: 389; fiscal year ended Jan 28, 2024: 306; fiscal year ended Jan 29, 2023: 455.
-
-NVIDIA fiscal 2025 10-K, No customer represented 10% or more of total revenue for fiscal year 2023.. Revenue by End Market - Total revenue: fiscal year ended Jan 26, 2025: 130,497; fiscal year ended Jan 28, 2024: 60,922; fiscal year ended Jan 29, 2023: 26,974.
-
-NVIDIA fiscal 2025 10-K, . Long-lived assets - United States: fiscal year ended Jan 26, 2025: 3,626; fiscal year ended Jan 28, 2024: 2,595.
-
-NVIDIA fiscal 2025 10-K, . Long-lived assets - Taiwan: fiscal year ended Jan 26, 2025: 1,481; fiscal year ended Jan 28, 2024: 773.
-
-NVIDIA fiscal 2025 10-K, . Long-lived assets - Israel: fiscal year ended Jan 26, 2025: 840; fiscal year ended Jan 28, 2024: 325.
-
-NVIDIA fiscal 2025 10-K, . Long-lived assets - Other: fiscal year ended Jan 26, 2025: 336; fiscal year ended Jan 28, 2024: 221.
-
-NVIDIA fiscal 2025 10-K, . Long-lived assets - Total long-lived assets: fiscal year ended Jan 26, 2025: 6,283; fiscal year ended Jan 28, 2024: 3,914.
-
-NVIDIA fiscal 2025 10-K, (Continued), Fiscal Year:. 2031 and thereafter: 537.
-
-NVIDIA fiscal 2025 10-K, (Continued), Fiscal Year:. Total: 2,086.
-
-NVIDIA fiscal 2025 10-K, (Continued), Fiscal Year:. Less imputed interest: 279.
-
-NVIDIA fiscal 2025 10-K, (Continued), Fiscal Year:. Present value of net future minimum lease payments: 1,807.
-
-NVIDIA fiscal 2025 10-K, (Continued), Fiscal Year:. Less short-term operating lease liabilities: 288.
-
-NVIDIA fiscal 2025 10-K, (Continued), Fiscal Year:. Long-term operating lease liabilities: 1,519.
-
-NVIDIA fiscal 2025 10-K, Other information related to leases was as follows:, Supplemental cash flows information. Operating cash flow used for operating leases: fiscal year ended Jan 26, 2025: 313; fiscal year ended Jan 28, 2024: 286; fiscal year ended Jan 29, 2023: 184.
-
-NVIDIA fiscal 2025 10-K, Other information related to leases was as follows:, Supplemental cash flows information. Operating lease assets obtained in exchange for lease obligations: fiscal year ended Jan 26, 2025: 877; fiscal year ended Jan 28, 2024: 531; fiscal year ended Jan 29, 2023: 358.
-
-NVIDIA fiscal 2025 10-K, Schedule II – Valuation and Qualifying Accounts, Fiscal year 2025. Allowance for doubtful accounts: 4, —, (1), —, (1), 4.
-
-NVIDIA fiscal 2025 10-K, Schedule II – Valuation and Qualifying Accounts, Fiscal year 2025. Sales return allowance: 109, 151, (2), (178), (4), 82.
-
-NVIDIA fiscal 2025 10-K, Schedule II – Valuation and Qualifying Accounts, Fiscal year 2025. Deferred tax valuation allowance: 1,552, 58, (3), —, 1,610.
-
-NVIDIA fiscal 2025 10-K, Fiscal year 2025, Fiscal year 2024. Allowance for doubtful accounts: 4, —, (1), —, (1), 4.
-
-NVIDIA fiscal 2025 10-K, Fiscal year 2025, Fiscal year 2024. Sales return allowance: 26, 213, (2), (130), (4), 109.
-
-NVIDIA fiscal 2025 10-K, Fiscal year 2025, Fiscal year 2024. Deferred tax valuation allowance: 1,484, 162, (3), (94), (3), 1,552.
-
-NVIDIA fiscal 2025 10-K, Fiscal year 2024, Fiscal year 2023. Allowance for doubtful accounts: 4, —, (1), —, (1), 4.
-
-NVIDIA fiscal 2025 10-K, Fiscal year 2024, Fiscal year 2023. Sales return allowance: 13, 104, (2), (91), (4), 26.
-
-NVIDIA fiscal 2025 10-K, Fiscal year 2024, Fiscal year 2023. Deferred tax valuation allowance: 907, 577, (3), —, 1,484.
-
-NVIDIA fiscal 2025 10-K, Exhibit Index. 2.1^ - Incorporated by Reference: 2.1.
-
-NVIDIA fiscal 2025 10-K, Exhibit Index. 2.1^ - Incorporated by Reference: 3.1.
-
-NVIDIA fiscal 2025 10-K, Exhibit Index. 2.1^ - Incorporated by Reference: 3.1.
-
-NVIDIA fiscal 2025 10-K, Exhibit Index. 2.1^ - Incorporated by Reference: 3.1.
-
-NVIDIA fiscal 2025 10-K, Exhibit Index. 2.1^ - Incorporated by Reference: 3.1.
-
-NVIDIA fiscal 2025 10-K, Exhibit Index. 2.1^ - Incorporated by Reference: 4.2.
-
-NVIDIA fiscal 2025 10-K, Exhibit Index. 2.1^ - Incorporated by Reference: 4.1.
-
-NVIDIA fiscal 2025 10-K, Exhibit Index. 2.1^ - Incorporated by Reference: 4.2.
-
-NVIDIA fiscal 2025 10-K, Exhibit Index. 4.6* - Incorporated by Reference: 4.2.
-
-NVIDIA fiscal 2025 10-K, Exhibit Index. Incorporated by Reference - Incorporated by Reference: 4.2.
-
-NVIDIA fiscal 2025 10-K, Exhibit Index. Incorporated by Reference - Incorporated by Reference: 10.1.
-
-NVIDIA fiscal 2025 10-K, Exhibit Index. 10.2+ - Incorporated by Reference: 10.1.
-
-NVIDIA fiscal 2025 10-K, Exhibit Index. 10.3+ - Incorporated by Reference: 10.26.
-
-NVIDIA fiscal 2025 10-K, Exhibit Index. 10.4+ - Incorporated by Reference: 10.27.
-
-NVIDIA fiscal 2025 10-K, Exhibit Index. 10.5+ - Incorporated by Reference: 10.1.
-
-NVIDIA fiscal 2025 10-K, Exhibit Index. 10.6+ - Incorporated by Reference: 10.2.
+NVIDIA fiscal 2025 10-K, (In millions) | Long-lived assets - Total long-lived assets: fiscal year ended Jan 26, 2025: $6,283 million; fiscal year ended Jan 28, 2024: $3,914 million

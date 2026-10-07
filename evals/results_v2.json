@@ -1,0 +1,266 @@
+[
+  {
+    "id": "nvda-01",
+    "company": "nvda",
+    "question": "What was NVIDIA's total revenue for fiscal 2025?",
+    "expected": [
+      "130,497"
+    ],
+    "type": "income_statement",
+    "rank": 1,
+    "top_chunk": "NVIDIA fiscal 2025 10-K, . A reconciliation of gross unrecognized tax benefits is as follows - Increases in tax positions for current year: fiscal year ended Jan 26, 2025: 1,268; fiscal year ended Jan 28, 2024: 616; fiscal year ended Jan 29, 2023: 268. NVIDIA fiscal 2025 10-K, . A reconciliation of gross unrecognized tax benefits is as follows - Increases in tax positions for prior years: fiscal y"
+  },
+  {
+    "id": "nvda-02",
+    "company": "nvda",
+    "question": "What was NVIDIA's net income for fiscal 2025?",
+    "expected": [
+      "72,880"
+    ],
+    "type": "income_statement",
+    "rank": 2,
+    "top_chunk": "NVIDIA fiscal 2025 10-K, Operating Income by Reportable Segments, ($ in millions). Compute & Networking: $82,875 million, $32,016 million, $50,859 million, 159%. NVIDIA fiscal 2025 10-K, Operating Income by Reportable Segments, ($ in millions). Graphics: $5,085 million, $5,846 million, $(761) million, (13)%. NVIDIA fiscal 2025 10-K, Operating Income by Reportable Segments, ($ in millions). All Oth"
+  },
+  {
+    "id": "nvda-03",
+    "company": "nvda",
+    "question": "How much did NVIDIA spend on research and development in fiscal 2025?",
+    "expected": [
+      "12,914"
+    ],
+    "type": "income_statement",
+    "rank": 1,
+    "top_chunk": "NVIDIA fiscal 2025 10-K, Operating Income by Reportable Segments, ($ in millions). Compute & Networking: $82,875 million, $32,016 million, $50,859 million, 159%. NVIDIA fiscal 2025 10-K, Operating Income by Reportable Segments, ($ in millions). Graphics: $5,085 million, $5,846 million, $(761) million, (13)%. NVIDIA fiscal 2025 10-K, Operating Income by Reportable Segments, ($ in millions). All Oth"
+  },
+  {
+    "id": "nvda-04",
+    "company": "nvda",
+    "question": "What was NVIDIA's gross margin in fiscal 2025?",
+    "expected": [
+      "75.0%"
+    ],
+    "type": "income_statement",
+    "rank": null,
+    "top_chunk": "NVIDIA fiscal 2025 10-K, Operating Income by Reportable Segments, ($ in millions). Compute & Networking: $82,875 million, $32,016 million, $50,859 million, 159%. NVIDIA fiscal 2025 10-K, Operating Income by Reportable Segments, ($ in millions). Graphics: $5,085 million, $5,846 million, $(761) million, (13)%. NVIDIA fiscal 2025 10-K, Operating Income by Reportable Segments, ($ in millions). All Oth"
+  },
+  {
+    "id": "nvda-05",
+    "company": "nvda",
+    "question": "How much revenue came from the Data Center market platform?",
+    "expected": [
+      "115,186"
+    ],
+    "type": "segment_table",
+    "rank": null,
+    "top_chunk": "The above securities were issued in transactions not involving a public offering pursuant to an exemption from registration set forth in Section\u202f4(a)(2) of the\u202fSecurities Act (and Regulation D or Regulation S promulgated thereunder). Stock Performance Graphs \n The following graph compares the cumulative total shareholder return for our common stock, the S&P 500 Index, and the Nasdaq 100 Index for "
+  },
+  {
+    "id": "nvda-06",
+    "company": "nvda",
+    "question": "How much revenue came from Gaming?",
+    "expected": [
+      "11,350"
+    ],
+    "type": "segment_table",
+    "rank": null,
+    "top_chunk": "NVIDIA fiscal 2025 10-K, . A reconciliation of gross unrecognized tax benefits is as follows - Increases in tax positions for current year: fiscal year ended Jan 26, 2025: 1,268; fiscal year ended Jan 28, 2024: 616; fiscal year ended Jan 29, 2023: 268. NVIDIA fiscal 2025 10-K, . A reconciliation of gross unrecognized tax benefits is as follows - Increases in tax positions for prior years: fiscal y"
+  },
+  {
+    "id": "nvda-07",
+    "company": "nvda",
+    "question": "How much revenue came from Professional Visualization?",
+    "expected": [
+      "1,878"
+    ],
+    "type": "segment_table",
+    "rank": null,
+    "top_chunk": "NVIDIA fiscal 2025 10-K, . A reconciliation of gross unrecognized tax benefits is as follows - Increases in tax positions for current year: fiscal year ended Jan 26, 2025: 1,268; fiscal year ended Jan 28, 2024: 616; fiscal year ended Jan 29, 2023: 268. NVIDIA fiscal 2025 10-K, . A reconciliation of gross unrecognized tax benefits is as follows - Increases in tax positions for prior years: fiscal y"
+  },
+  {
+    "id": "nvda-08",
+    "company": "nvda",
+    "question": "How much revenue came from Automotive?",
+    "expected": [
+      "1,694"
+    ],
+    "type": "segment_table",
+    "rank": 3,
+    "top_chunk": "NVIDIA fiscal 2025 10-K, . A reconciliation of gross unrecognized tax benefits is as follows - Increases in tax positions for current year: fiscal year ended Jan 26, 2025: 1,268; fiscal year ended Jan 28, 2024: 616; fiscal year ended Jan 29, 2023: 268. NVIDIA fiscal 2025 10-K, . A reconciliation of gross unrecognized tax benefits is as follows - Increases in tax positions for prior years: fiscal y"
+  },
+  {
+    "id": "nvda-09",
+    "company": "nvda",
+    "question": "How many employees does NVIDIA have?",
+    "expected": [
+      "36,000"
+    ],
+    "type": "text",
+    "rank": 2,
+    "top_chunk": "Additionally, we have increased our focus on diversity recruiting and we welcome employees of all backgrounds. Our own employees also help to surface top talent, with over 41% of our new hires in fiscal year 2025 coming from employee referrals. Development and Retention \n To support employee development, we provide opportunities to learn on-the-job through training courses, targeted development pr"
+  },
+  {
+    "id": "nvda-10",
+    "company": "nvda",
+    "question": "What does NVIDIA say about export controls affecting its business?",
+    "expected": [
+      "export control"
+    ],
+    "type": "text",
+    "rank": 1,
+    "top_chunk": "Concurrently, the war in Ukraine has impacted sales in EMEA and may continue to do so in the future. The increasing focus on the risks and strategic importance of AI technologies has resulted in regulatory restrictions that target products and services capable of enabling or facilitating AI and may in the future result in additional restrictions impacting some or all of our product and service off"
+  },
+  {
+    "id": "nvda-11",
+    "company": "nvda",
+    "question": "Where is NVIDIA headquartered?",
+    "expected": [
+      "Santa Clara"
+    ],
+    "type": "text",
+    "rank": 1,
+    "top_chunk": "We discuss many of these risks, uncertainties, and other factors in this Annual Report on Form 10-K in greater detail under the heading \u201cRisk Factors.\u201d Given these risks, uncertainties, and other factors, you should not place undue reliance on these forward-looking statements. Also, these forward-looking statements represent our estimates and assumptions only as of the date of this filing. You sho"
+  },
+  {
+    "id": "nvda-12",
+    "company": "nvda",
+    "question": "When did NVIDIA's fiscal year 2025 end?",
+    "expected": [
+      "January 26, 2025"
+    ],
+    "type": "text",
+    "rank": 1,
+    "top_chunk": "NVIDIA fiscal 2025 10-K, Operating Income by Reportable Segments, ($ in millions). Compute & Networking: $82,875 million, $32,016 million, $50,859 million, 159%. NVIDIA fiscal 2025 10-K, Operating Income by Reportable Segments, ($ in millions). Graphics: $5,085 million, $5,846 million, $(761) million, (13)%. NVIDIA fiscal 2025 10-K, Operating Income by Reportable Segments, ($ in millions). All Oth"
+  },
+  {
+    "id": "aapl-13",
+    "company": "aapl",
+    "question": "What were Apple's total net sales for fiscal 2024?",
+    "expected": [
+      "391,035"
+    ],
+    "type": "income_statement",
+    "rank": 1,
+    "top_chunk": "Total operating expenses: fiscal 2024: $57,467 million; change: 5%; fiscal 2023: $54,847 million; change: 7%; fiscal 2022: $51,345 million. Apple fiscal 2024 10-K, Operating Expenses, Operating expenses for 2024, 2023 and 2022 were as follows (dollars in millions):. Percentage of total net sales: fiscal 2024: 15%; fiscal 2023: 14%; fiscal 2022: 13%. Apple fiscal 2024 10-K, Selling, General and Adm"
+  },
+  {
+    "id": "aapl-14",
+    "company": "aapl",
+    "question": "What was Apple's net income for fiscal 2024?",
+    "expected": [
+      "93,736"
+    ],
+    "type": "income_statement",
+    "rank": 3,
+    "top_chunk": "Total operating expenses: fiscal 2024: $57,467 million; change: 5%; fiscal 2023: $54,847 million; change: 7%; fiscal 2022: $51,345 million. Apple fiscal 2024 10-K, Operating Expenses, Operating expenses for 2024, 2023 and 2022 were as follows (dollars in millions):. Percentage of total net sales: fiscal 2024: 15%; fiscal 2023: 14%; fiscal 2022: 13%. Apple fiscal 2024 10-K, Selling, General and Adm"
+  },
+  {
+    "id": "aapl-15",
+    "company": "aapl",
+    "question": "How much did Apple spend on research and development in fiscal 2024?",
+    "expected": [
+      "31,370"
+    ],
+    "type": "income_statement",
+    "rank": 1,
+    "top_chunk": "Total operating expenses: fiscal 2024: $57,467 million; change: 5%; fiscal 2023: $54,847 million; change: 7%; fiscal 2022: $51,345 million. Apple fiscal 2024 10-K, Operating Expenses, Operating expenses for 2024, 2023 and 2022 were as follows (dollars in millions):. Percentage of total net sales: fiscal 2024: 15%; fiscal 2023: 14%; fiscal 2022: 13%. Apple fiscal 2024 10-K, Selling, General and Adm"
+  },
+  {
+    "id": "aapl-16",
+    "company": "aapl",
+    "question": "What were iPhone net sales in fiscal 2024?",
+    "expected": [
+      "201,183"
+    ],
+    "type": "segment_table",
+    "rank": null,
+    "top_chunk": "Period End Date: 4.1. Apple fiscal 2024 10-K, Incorporated by Reference. Period End Date: 4.1. Apple fiscal 2024 10-K, Incorporated by Reference. Period End Date: 4.1. Apple fiscal 2024 10-K, Incorporated by Reference. Period End Date: 4.1. Apple fiscal 2024 10-K, Incorporated by Reference. Apple Inc.: 54. Apple fiscal 2024 10-K, Period End Date. 4.29* - 4.29*: 4.1. Apple fiscal 2024 10-K, Period "
+  },
+  {
+    "id": "aapl-17",
+    "company": "aapl",
+    "question": "What were Mac net sales in fiscal 2024?",
+    "expected": [
+      "29,984"
+    ],
+    "type": "segment_table",
+    "rank": null,
+    "top_chunk": "Period End Date: 4.1. Apple fiscal 2024 10-K, Incorporated by Reference. Period End Date: 4.1. Apple fiscal 2024 10-K, Incorporated by Reference. Period End Date: 4.1. Apple fiscal 2024 10-K, Incorporated by Reference. Period End Date: 4.1. Apple fiscal 2024 10-K, Incorporated by Reference. Apple Inc.: 54. Apple fiscal 2024 10-K, Period End Date. 4.29* - 4.29*: 4.1. Apple fiscal 2024 10-K, Period "
+  },
+  {
+    "id": "aapl-18",
+    "company": "aapl",
+    "question": "What were iPad net sales in fiscal 2024?",
+    "expected": [
+      "26,694"
+    ],
+    "type": "segment_table",
+    "rank": null,
+    "top_chunk": "Total operating expenses: fiscal 2024: $57,467 million; change: 5%; fiscal 2023: $54,847 million; change: 7%; fiscal 2022: $51,345 million. Apple fiscal 2024 10-K, Operating Expenses, Operating expenses for 2024, 2023 and 2022 were as follows (dollars in millions):. Percentage of total net sales: fiscal 2024: 15%; fiscal 2023: 14%; fiscal 2022: 13%. Apple fiscal 2024 10-K, Selling, General and Adm"
+  },
+  {
+    "id": "aapl-19",
+    "company": "aapl",
+    "question": "What were Wearables, Home and Accessories net sales in fiscal 2024?",
+    "expected": [
+      "37,005"
+    ],
+    "type": "segment_table",
+    "rank": null,
+    "top_chunk": "- Item 7.: 21. Apple fiscal 2024 10-K, Part II. Item 7A. - Item 7A. : 27. Apple fiscal 2024 10-K, Part II. Item 8. - Item 8.: 28. Apple fiscal 2024 10-K, Part II. Item 9. - Item 9.: 51. Apple fiscal 2024 10-K, Part II. Item 9A. - Item 9A. : 51. Apple fiscal 2024 10-K, Part II. Item 9B. - Item 9B. : 52. Apple fiscal 2024 10-K, Part II. Item 9C. - Item 9C. : 52. Apple fiscal 2024 10-K, Part III. Ite"
+  },
+  {
+    "id": "aapl-20",
+    "company": "aapl",
+    "question": "How much revenue did Services bring in for fiscal 2024?",
+    "expected": [
+      "96,169"
+    ],
+    "type": "segment_table",
+    "rank": 1,
+    "top_chunk": "Total operating expenses: fiscal 2024: $57,467 million; change: 5%; fiscal 2023: $54,847 million; change: 7%; fiscal 2022: $51,345 million. Apple fiscal 2024 10-K, Operating Expenses, Operating expenses for 2024, 2023 and 2022 were as follows (dollars in millions):. Percentage of total net sales: fiscal 2024: 15%; fiscal 2023: 14%; fiscal 2022: 13%. Apple fiscal 2024 10-K, Selling, General and Adm"
+  },
+  {
+    "id": "aapl-21",
+    "company": "aapl",
+    "question": "How many full-time employees does Apple have?",
+    "expected": [
+      "164,000"
+    ],
+    "type": "text",
+    "rank": null,
+    "top_chunk": "Apple fiscal 2024 10-K: financial tables rewritten as sentences\n\nApple fiscal 2024 10-K, One Apple Park Way. Cupertino , California: 95014. Apple fiscal 2024 10-K, Securities registered pursuant to Section 12(b) of the Act:. Common Stock, $0.00001 par value per share - 0.000% Notes due 2025: \u2014. Apple fiscal 2024 10-K, Securities registered pursuant to Section 12(b) of the Act:. Common Stock, $0.00"
+  },
+  {
+    "id": "aapl-22",
+    "company": "aapl",
+    "question": "Who manufactures Apple's products?",
+    "expected": [
+      "outsourcing partners"
+    ],
+    "type": "text",
+    "rank": null,
+    "top_chunk": "Factors that might cause such differences include, but are not limited to, those discussed in Part I, Item 1A of this Form 10-K under the heading \u201cRisk Factors.\u201d The Company assumes no obligation to revise or update any forward-looking statements for any reason, except as required by law. Unless otherwise stated, all information presented herein is based on the Company\u2019s fiscal calendar, and refer"
+  },
+  {
+    "id": "aapl-23",
+    "company": "aapl",
+    "question": "When does Apple's fiscal year end?",
+    "expected": [
+      "last Saturday of September"
+    ],
+    "type": "text",
+    "rank": null,
+    "top_chunk": "Period End Date: 4.1. Apple fiscal 2024 10-K, Incorporated by Reference. Period End Date: 4.1. Apple fiscal 2024 10-K, Incorporated by Reference. Period End Date: 4.1. Apple fiscal 2024 10-K, Incorporated by Reference. Period End Date: 4.1. Apple fiscal 2024 10-K, Incorporated by Reference. Apple Inc.: 54. Apple fiscal 2024 10-K, Period End Date. 4.29* - 4.29*: 4.1. Apple fiscal 2024 10-K, Period "
+  },
+  {
+    "id": "aapl-24",
+    "company": "aapl",
+    "question": "Where is Apple headquartered?",
+    "expected": [
+      "Cupertino"
+    ],
+    "type": "text",
+    "rank": 3,
+    "top_chunk": "Apple fiscal 2024 10-K, RONALD D. SUGAR, SUSAN L. WAGNER. Apple Inc.: 57."
+  }
+]

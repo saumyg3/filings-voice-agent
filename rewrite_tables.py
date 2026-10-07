@@ -7,12 +7,14 @@ company name, no year and no statement name, so semantic search can't match a qu
   NVIDIA fiscal 2025 10-K, Consolidated Statements of Income (In millions, except per share data).
   Revenue: fiscal year ended Jan 26, 2025: $130,497 million; fiscal year ended Jan 28, 2024: ...
 
-Output goes to filings/<tag>_10k_<period>_tables.txt and is uploaded alongside the original.
+Writes two files per company, which are what gets uploaded:
+  filings/<tag>_10k_<period>_tables.txt  one table row per paragraph, as a sentence
+  filings/<tag>_10k_<period>_prose.txt   the 10-K with raw table rows removed
 """
 import pathlib
 import re
 
-from companies import COMPANIES, filing_path, tables_path
+from companies import COMPANIES, filing_path, prose_path, tables_path
 
 DATE = re.compile(r"^(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\.? \d{1,2}, (19|20)\d\d$")
 YEAR = re.compile(r"^(19|20)\d\d$")
@@ -75,7 +77,7 @@ def rewrite(tag):
                 headers, sub, statement, context = [], "", "", []
             elif STATEMENT.search(line) and len(line) < 90:
                 statement, context, sub = line.title() if line.isupper() else line, [], ""
-            elif not SKIP_CONTEXT.match(line) and not is_header_cell(line):
+            elif not SKIP_CONTEXT.match(line) and not is_header_cell(line) and not line.endswith("."):
                 context = (context + [line])[-2:]
                 sub = ""
             prev_plain = line
@@ -83,6 +85,8 @@ def rewrite(tag):
 
         cells = [x.strip() for x in line.split("|")]
         nonempty = [x for x in cells if x]
+        if any("million" in x.lower() for x in nonempty[1:]):
+            context = (context + ["(In millions)"])[-2:]
         if nonempty and all(is_header_cell(x) for x in nonempty):
             if any(PARTIAL_DATE.match(x) or " " in x and YEAR.match(x.split(" ")[0]) for x in nonempty):
                 years = re.findall(r"(?:19|20)\d\d", line)  # dates split across lines: keep the years
@@ -117,13 +121,18 @@ def rewrite(tag):
                 return v
             return f"${v} million"
 
+        if not millions and not any(v.endswith("%") for v in vals):
+            continue  # table of contents / exhibit index / cover page rows, not financial data
         if pairs:
             body = "; ".join(f"{pretty_header(h)}: {money(v, h)}" for h, v in pairs)
         else:
             body = ", ".join(money(v) for v in vals)
         where = ", ".join(([statement] if statement else []) + context)
         name = f"{sub} - {label}" if sub else label
-        out.append(f"{doc_label}, {where}. {name}: {body}.")
+        out.append(f"{doc_label}, {where} | {name}: {body}")
+
+    prose = [ln for ln in lines if "|" not in ln]
+    pathlib.Path(prose_path(tag)).write_text("\n".join(prose), encoding="utf-8")
 
     path = pathlib.Path(tables_path(tag))
     path.write_text(f"{doc_label}: financial tables rewritten as sentences\n\n" + "\n\n".join(out), encoding="utf-8")
