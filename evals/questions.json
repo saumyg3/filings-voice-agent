@@ -1,0 +1,218 @@
+[
+  {
+    "id": "nvda-01",
+    "company": "nvda",
+    "question": "What was NVIDIA's total revenue for fiscal 2025?",
+    "expected": [
+      "130,497"
+    ],
+    "type": "income_statement"
+  },
+  {
+    "id": "nvda-02",
+    "company": "nvda",
+    "question": "What was NVIDIA's net income for fiscal 2025?",
+    "expected": [
+      "72,880"
+    ],
+    "type": "income_statement"
+  },
+  {
+    "id": "nvda-03",
+    "company": "nvda",
+    "question": "How much did NVIDIA spend on research and development in fiscal 2025?",
+    "expected": [
+      "12,914"
+    ],
+    "type": "income_statement"
+  },
+  {
+    "id": "nvda-04",
+    "company": "nvda",
+    "question": "What was NVIDIA's gross margin in fiscal 2025?",
+    "expected": [
+      "75.0%"
+    ],
+    "type": "income_statement"
+  },
+  {
+    "id": "nvda-05",
+    "company": "nvda",
+    "question": "How much revenue came from the Data Center market platform?",
+    "expected": [
+      "115,186"
+    ],
+    "type": "segment_table"
+  },
+  {
+    "id": "nvda-06",
+    "company": "nvda",
+    "question": "How much revenue came from Gaming?",
+    "expected": [
+      "11,350"
+    ],
+    "type": "segment_table"
+  },
+  {
+    "id": "nvda-07",
+    "company": "nvda",
+    "question": "How much revenue came from Professional Visualization?",
+    "expected": [
+      "1,878"
+    ],
+    "type": "segment_table"
+  },
+  {
+    "id": "nvda-08",
+    "company": "nvda",
+    "question": "How much revenue came from Automotive?",
+    "expected": [
+      "1,694"
+    ],
+    "type": "segment_table"
+  },
+  {
+    "id": "nvda-09",
+    "company": "nvda",
+    "question": "How many employees does NVIDIA have?",
+    "expected": [
+      "36,000"
+    ],
+    "type": "text"
+  },
+  {
+    "id": "nvda-10",
+    "company": "nvda",
+    "question": "What does NVIDIA say about export controls affecting its business?",
+    "expected": [
+      "export control"
+    ],
+    "type": "text"
+  },
+  {
+    "id": "nvda-11",
+    "company": "nvda",
+    "question": "Where is NVIDIA headquartered?",
+    "expected": [
+      "Santa Clara"
+    ],
+    "type": "text"
+  },
+  {
+    "id": "nvda-12",
+    "company": "nvda",
+    "question": "When did NVIDIA's fiscal year 2025 end?",
+    "expected": [
+      "January 26, 2025"
+    ],
+    "type": "text"
+  },
+  {
+    "id": "aapl-13",
+    "company": "aapl",
+    "question": "What were Apple's total net sales for fiscal 2024?",
+    "expected": [
+      "391,035"
+    ],
+    "type": "income_statement"
+  },
+  {
+    "id": "aapl-14",
+    "company": "aapl",
+    "question": "What was Apple's net income for fiscal 2024?",
+    "expected": [
+      "93,736"
+    ],
+    "type": "income_statement"
+  },
+  {
+    "id": "aapl-15",
+    "company": "aapl",
+    "question": "How much did Apple spend on research and development in fiscal 2024?",
+    "expected": [
+      "31,370"
+    ],
+    "type": "income_statement"
+  },
+  {
+    "id": "aapl-16",
+    "company": "aapl",
+    "question": "What were iPhone net sales in fiscal 2024?",
+    "expected": [
+      "201,183"
+    ],
+    "type": "segment_table"
+  },
+  {
+    "id": "aapl-17",
+    "company": "aapl",
+    "question": "What were Mac net sales in fiscal 2024?",
+    "expected": [
+      "29,984"
+    ],
+    "type": "segment_table"
+  },
+  {
+    "id": "aapl-18",
+    "company": "aapl",
+    "question": "What were iPad net sales in fiscal 2024?",
+    "expected": [
+      "26,694"
+    ],
+    "type": "segment_table"
+  },
+  {
+    "id": "aapl-19",
+    "company": "aapl",
+    "question": "What were Wearables, Home and Accessories net sales in fiscal 2024?",
+    "expected": [
+      "37,005"
+    ],
+    "type": "segment_table"
+  },
+  {
+    "id": "aapl-20",
+    "company": "aapl",
+    "question": "How much revenue did Services bring in for fiscal 2024?",
+    "expected": [
+      "96,169"
+    ],
+    "type": "segment_table"
+  },
+  {
+    "id": "aapl-21",
+    "company": "aapl",
+    "question": "How many full-time employees does Apple have?",
+    "expected": [
+      "164,000"
+    ],
+    "type": "text"
+  },
+  {
+    "id": "aapl-22",
+    "company": "aapl",
+    "question": "Who manufactures Apple's products?",
+    "expected": [
+      "outsourcing partners"
+    ],
+    "type": "text"
+  },
+  {
+    "id": "aapl-23",
+    "company": "aapl",
+    "question": "When does Apple's fiscal year end?",
+    "expected": [
+      "last Saturday of September"
+    ],
+    "type": "text"
+  },
+  {
+    "id": "aapl-24",
+    "company": "aapl",
+    "question": "Where is Apple headquartered?",
+    "expected": [
+      "Cupertino"
+    ],
+    "type": "text"
+  }
+]
