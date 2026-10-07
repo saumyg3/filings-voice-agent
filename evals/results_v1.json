@@ -1,0 +1,266 @@
+[
+  {
+    "id": "nvda-01",
+    "company": "nvda",
+    "question": "What was NVIDIA's total revenue for fiscal 2025?",
+    "expected": [
+      "130,497"
+    ],
+    "type": "income_statement",
+    "rank": null,
+    "top_chunk": "Our Businesses \n We report our business results in two segments. The Compute & Networking segment includes our Data Center accelerated computing platforms and AI solutions and software; networking; automotive platforms and autonomous and electric vehicle solutions; Jetson for robotics and other embedded platforms; and DGX Cloud computing services. The Graphics segment includes GeForce GPUs for gam"
+  },
+  {
+    "id": "nvda-02",
+    "company": "nvda",
+    "question": "What was NVIDIA's net income for fiscal 2025?",
+    "expected": [
+      "72,880"
+    ],
+    "type": "income_statement",
+    "rank": null,
+    "top_chunk": "Accounting for Loss Contingencies \n As of January 26, 2025, there are no accrued contingent liabilities associated with the legal proceedings described above based on our belief that liabilities, while reasonably possible, are not probable. Further, any possible loss or range of loss in these matters cannot be reasonably estimated at this time. We are engaged in legal actions not described above a"
+  },
+  {
+    "id": "nvda-03",
+    "company": "nvda",
+    "question": "How much did NVIDIA spend on research and development in fiscal 2025?",
+    "expected": [
+      "12,914"
+    ],
+    "type": "income_statement",
+    "rank": null,
+    "top_chunk": "On October 23, 2023, the USG informed us that the licensing requirements were effective immediately for shipments of our A100, A800, H100, H800, and L40S products (removing the grace period granted by the official rule). Blackwell systems, such as GB200 NVL 72 and NVL 36 as well as B200 are also subject to these requirements and therefore require a license for any shipment to certain entities and "
+  },
+  {
+    "id": "nvda-04",
+    "company": "nvda",
+    "question": "What was NVIDIA's gross margin in fiscal 2025?",
+    "expected": [
+      "75.0%"
+    ],
+    "type": "income_statement",
+    "rank": null,
+    "top_chunk": "Income Taxes \n We are subject to income taxes in the U.S. and foreign jurisdictions. Our calculation of deferred tax assets and liabilities is based on certain estimates and judgments and involves dealing with uncertainties in the application of complex tax laws. Our estimates of deferred tax assets and liabilities may change based, in part, on added certainty or finality to an anticipated outcome"
+  },
+  {
+    "id": "nvda-05",
+    "company": "nvda",
+    "question": "How much revenue came from the Data Center market platform?",
+    "expected": [
+      "115,186"
+    ],
+    "type": "segment_table",
+    "rank": null,
+    "top_chunk": "The above securities were issued in transactions not involving a public offering pursuant to an exemption from registration set forth in Section\u202f4(a)(2) of the\u202fSecurities Act (and Regulation D or Regulation S promulgated thereunder). Stock Performance Graphs \n The following graph compares the cumulative total shareholder return for our common stock, the S&P 500 Index, and the Nasdaq 100 Index for "
+  },
+  {
+    "id": "nvda-06",
+    "company": "nvda",
+    "question": "How much revenue came from Gaming?",
+    "expected": [
+      "11,350"
+    ],
+    "type": "segment_table",
+    "rank": null,
+    "top_chunk": "Our Businesses \n We report our business results in two segments. The Compute & Networking segment includes our Data Center accelerated computing platforms and AI solutions and software; networking; automotive platforms and autonomous and electric vehicle solutions; Jetson for robotics and other embedded platforms; and DGX Cloud computing services. The Graphics segment includes GeForce GPUs for gam"
+  },
+  {
+    "id": "nvda-07",
+    "company": "nvda",
+    "question": "How much revenue came from Professional Visualization?",
+    "expected": [
+      "1,878"
+    ],
+    "type": "segment_table",
+    "rank": null,
+    "top_chunk": "Our Businesses \n We report our business results in two segments. The Compute & Networking segment includes our Data Center accelerated computing platforms and AI solutions and software; networking; automotive platforms and autonomous and electric vehicle solutions; Jetson for robotics and other embedded platforms; and DGX Cloud computing services. The Graphics segment includes GeForce GPUs for gam"
+  },
+  {
+    "id": "nvda-08",
+    "company": "nvda",
+    "question": "How much revenue came from Automotive?",
+    "expected": [
+      "1,694"
+    ],
+    "type": "segment_table",
+    "rank": null,
+    "top_chunk": "The market in China for datacenter solutions remains competitive. We will continue to comply with export controls while serving our customers. To the extent that a customer requires products covered by the licensing requirements, we may seek a license for the customer but have no assurance that the USG will grant such a license, or that the USG will act on the license application in a timely manne"
+  },
+  {
+    "id": "nvda-09",
+    "company": "nvda",
+    "question": "How many employees does NVIDIA have?",
+    "expected": [
+      "36,000"
+    ],
+    "type": "text",
+    "rank": 2,
+    "top_chunk": "Additionally, we have increased our focus on diversity recruiting and we welcome employees of all backgrounds. Our own employees also help to surface top talent, with over 41% of our new hires in fiscal year 2025 coming from employee referrals. Development and Retention \n To support employee development, we provide opportunities to learn on-the-job through training courses, targeted development pr"
+  },
+  {
+    "id": "nvda-10",
+    "company": "nvda",
+    "question": "What does NVIDIA say about export controls affecting its business?",
+    "expected": [
+      "export control"
+    ],
+    "type": "text",
+    "rank": 1,
+    "top_chunk": "Concurrently, the war in Ukraine has impacted sales in EMEA and may continue to do so in the future. The increasing focus on the risks and strategic importance of AI technologies has resulted in regulatory restrictions that target products and services capable of enabling or facilitating AI and may in the future result in additional restrictions impacting some or all of our product and service off"
+  },
+  {
+    "id": "nvda-11",
+    "company": "nvda",
+    "question": "Where is NVIDIA headquartered?",
+    "expected": [
+      "Santa Clara"
+    ],
+    "type": "text",
+    "rank": 1,
+    "top_chunk": "We discuss many of these risks, uncertainties, and other factors in this Annual Report on Form 10-K in greater detail under the heading \u201cRisk Factors.\u201d Given these risks, uncertainties, and other factors, you should not place undue reliance on these forward-looking statements. Also, these forward-looking statements represent our estimates and assumptions only as of the date of this filing. You sho"
+  },
+  {
+    "id": "nvda-12",
+    "company": "nvda",
+    "question": "When did NVIDIA's fiscal year 2025 end?",
+    "expected": [
+      "January 26, 2025"
+    ],
+    "type": "text",
+    "rank": null,
+    "top_chunk": "Our Businesses \n We report our business results in two segments. The Compute & Networking segment includes our Data Center accelerated computing platforms and AI solutions and software; networking; automotive platforms and autonomous and electric vehicle solutions; Jetson for robotics and other embedded platforms; and DGX Cloud computing services. The Graphics segment includes GeForce GPUs for gam"
+  },
+  {
+    "id": "aapl-13",
+    "company": "aapl",
+    "question": "What were Apple's total net sales for fiscal 2024?",
+    "expected": [
+      "391,035"
+    ],
+    "type": "income_statement",
+    "rank": null,
+    "top_chunk": "Factors that might cause such differences include, but are not limited to, those discussed in Part I, Item 1A of this Form 10-K under the heading \u201cRisk Factors.\u201d The Company assumes no obligation to revise or update any forward-looking statements for any reason, except as required by law. Unless otherwise stated, all information presented herein is based on the Company\u2019s fiscal calendar, and refer"
+  },
+  {
+    "id": "aapl-14",
+    "company": "aapl",
+    "question": "What was Apple's net income for fiscal 2024?",
+    "expected": [
+      "93,736"
+    ],
+    "type": "income_statement",
+    "rank": null,
+    "top_chunk": "Apple fiscal 2024 10-K\n\naapl-20240928 \n\n UNITED STATES \n SECURITIES AND EXCHANGE COMMISSION \n Washington, D.C. 20549 \n\n FORM 10-K \n\n (Mark One) \n \u2612 ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 \n For the fiscal year ended September 28 , 2024 \n or \n \u2610 TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 \n For the transition "
+  },
+  {
+    "id": "aapl-15",
+    "company": "aapl",
+    "question": "How much did Apple spend on research and development in fiscal 2024?",
+    "expected": [
+      "31,370"
+    ],
+    "type": "income_statement",
+    "rank": null,
+    "top_chunk": "The Company\u2019s effective tax rate for 2024 was higher compared to 2023 due primarily to a one-time income tax charge of $10.2 billion, net, related to the State Aid Decision, a higher effective tax rate on foreign earnings and lower tax benefits from share-based compensation. Liquidity and Capital Resources \n The Company believes its balances of unrestricted cash, cash equivalents and marketable se"
+  },
+  {
+    "id": "aapl-16",
+    "company": "aapl",
+    "question": "What were iPhone net sales in fiscal 2024?",
+    "expected": [
+      "201,183"
+    ],
+    "type": "segment_table",
+    "rank": null,
+    "top_chunk": "Factors that might cause such differences include, but are not limited to, those discussed in Part I, Item 1A of this Form 10-K under the heading \u201cRisk Factors.\u201d The Company assumes no obligation to revise or update any forward-looking statements for any reason, except as required by law. Unless otherwise stated, all information presented herein is based on the Company\u2019s fiscal calendar, and refer"
+  },
+  {
+    "id": "aapl-17",
+    "company": "aapl",
+    "question": "What were Mac net sales in fiscal 2024?",
+    "expected": [
+      "29,984"
+    ],
+    "type": "segment_table",
+    "rank": null,
+    "top_chunk": "If the Company\u2019s effective tax rates were to increase, or if the ultimate determination of the Company\u2019s taxes owed is for an amount in excess of amounts previously accrued, the Company\u2019s business, results of operations and financial condition could be materially adversely affected. General Risks \n The price of the Company\u2019s stock is subject to volatility. The Company\u2019s stock has experienced subst"
+  },
+  {
+    "id": "aapl-18",
+    "company": "aapl",
+    "question": "What were iPad net sales in fiscal 2024?",
+    "expected": [
+      "26,694"
+    ],
+    "type": "segment_table",
+    "rank": null,
+    "top_chunk": "The Company makes statements about its use and disclosure of personal information through its privacy policy, information provided on its website, press statements and other privacy notices provided to customers. Any failure by the Company to comply with these public statements or with federal, state or international privacy or data protection laws and regulations could result in inquiries or proc"
+  },
+  {
+    "id": "aapl-19",
+    "company": "aapl",
+    "question": "What were Wearables, Home and Accessories net sales in fiscal 2024?",
+    "expected": [
+      "37,005"
+    ],
+    "type": "segment_table",
+    "rank": null,
+    "top_chunk": "Factors that might cause such differences include, but are not limited to, those discussed in Part I, Item 1A of this Form 10-K under the heading \u201cRisk Factors.\u201d The Company assumes no obligation to revise or update any forward-looking statements for any reason, except as required by law. Unless otherwise stated, all information presented herein is based on the Company\u2019s fiscal calendar, and refer"
+  },
+  {
+    "id": "aapl-20",
+    "company": "aapl",
+    "question": "How much revenue did Services bring in for fiscal 2024?",
+    "expected": [
+      "96,169"
+    ],
+    "type": "segment_table",
+    "rank": 1,
+    "top_chunk": "To protect against foreign exchange rate risk, the Company may use derivative instruments, offset exposures, or adjust local currency pricing of its products and services. However, the Company may choose to not hedge certain foreign currency exposures for a variety of reasons, including accounting considerations or prohibitive cost. The Company applied a value-at-risk (\u201cVAR\u201d) model to its foreign "
+  },
+  {
+    "id": "aapl-21",
+    "company": "aapl",
+    "question": "How many full-time employees does Apple have?",
+    "expected": [
+      "164,000"
+    ],
+    "type": "text",
+    "rank": null,
+    "top_chunk": "Factors that might cause such differences include, but are not limited to, those discussed in Part I, Item 1A of this Form 10-K under the heading \u201cRisk Factors.\u201d The Company assumes no obligation to revise or update any forward-looking statements for any reason, except as required by law. Unless otherwise stated, all information presented herein is based on the Company\u2019s fiscal calendar, and refer"
+  },
+  {
+    "id": "aapl-22",
+    "company": "aapl",
+    "question": "Who manufactures Apple's products?",
+    "expected": [
+      "outsourcing partners"
+    ],
+    "type": "text",
+    "rank": 2,
+    "top_chunk": "Factors that might cause such differences include, but are not limited to, those discussed in Part I, Item 1A of this Form 10-K under the heading \u201cRisk Factors.\u201d The Company assumes no obligation to revise or update any forward-looking statements for any reason, except as required by law. Unless otherwise stated, all information presented herein is based on the Company\u2019s fiscal calendar, and refer"
+  },
+  {
+    "id": "aapl-23",
+    "company": "aapl",
+    "question": "When does Apple's fiscal year end?",
+    "expected": [
+      "last Saturday of September"
+    ],
+    "type": "text",
+    "rank": 1,
+    "top_chunk": "Factors that might cause such differences include, but are not limited to, those discussed in Part I, Item 1A of this Form 10-K under the heading \u201cRisk Factors.\u201d The Company assumes no obligation to revise or update any forward-looking statements for any reason, except as required by law. Unless otherwise stated, all information presented herein is based on the Company\u2019s fiscal calendar, and refer"
+  },
+  {
+    "id": "aapl-24",
+    "company": "aapl",
+    "question": "Where is Apple headquartered?",
+    "expected": [
+      "Cupertino"
+    ],
+    "type": "text",
+    "rank": 2,
+    "top_chunk": "Factors that might cause such differences include, but are not limited to, those discussed in Part I, Item 1A of this Form 10-K under the heading \u201cRisk Factors.\u201d The Company assumes no obligation to revise or update any forward-looking statements for any reason, except as required by law. Unless otherwise stated, all information presented herein is based on the Company\u2019s fiscal calendar, and refer"
+  }
+]

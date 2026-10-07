@@ -7,3 +7,7 @@ COMPANIES = {
 
 def filing_path(tag):
     return f"filings/{tag}_10k_{COMPANIES[tag]['period']}.txt"
+
+
+def tables_path(tag):
+    return f"filings/{tag}_10k_{COMPANIES[tag]['period']}_tables.txt"

@@ -12,6 +12,7 @@ load_dotenv(ROOT / ".env")
 import retrieval  # noqa: E402
 
 K = 3
+RUN = sys.argv[1] if len(sys.argv) > 1 else "latest"  # e.g. v1, v2
 questions = json.loads((ROOT / "evals/questions.json").read_text())
 
 
@@ -33,10 +34,10 @@ for t in sorted({r["type"] for r in results}) + ["all"]:
     hk = sum(r["rank"] is not None for r in sub) / len(sub)
     lines.append(f"| {'**all**' if t == 'all' else t} | {len(sub)} | {h1:.0%} | {hk:.0%} |")
 table = "\n".join(lines)
-print("\n" + table)
+print(f"\n[{RUN}]\n" + table)
 
-(ROOT / "evals/results.json").write_text(json.dumps(results, indent=2))
-(ROOT / "evals/results_table.md").write_text(table + "\n")
+(ROOT / f"evals/results_{RUN}.json").write_text(json.dumps(results, indent=2))
+(ROOT / f"evals/results_table_{RUN}.md").write_text(table + "\n")
 print("\nMisses (what came back instead):")
 for r in results:
     if not r["rank"]:
