@@ -1,0 +1,266 @@
+[
+  {
+    "id": "nvda-01",
+    "company": "nvda",
+    "question": "What was NVIDIA's total revenue for fiscal 2025?",
+    "expected": [
+      "130,497"
+    ],
+    "type": "income_statement",
+    "rank": 2,
+    "top_chunk": "NVIDIA fiscal 2025 10-K,  | Revenue: fiscal year ended Jan 26, 2025: 100.0%; fiscal year ended Jan 28, 2024: 100.0%"
+  },
+  {
+    "id": "nvda-02",
+    "company": "nvda",
+    "question": "What was NVIDIA's net income for fiscal 2025?",
+    "expected": [
+      "72,880"
+    ],
+    "type": "income_statement",
+    "rank": 1,
+    "top_chunk": "NVIDIA fiscal 2025 10-K, ($ in millions, except per share data) | Net income: fiscal year ended Jan 26, 2025: $72,880 million; fiscal year ended Jan 28, 2024: $29,760 million"
+  },
+  {
+    "id": "nvda-03",
+    "company": "nvda",
+    "question": "How much did NVIDIA spend on research and development in fiscal 2025?",
+    "expected": [
+      "12,914"
+    ],
+    "type": "income_statement",
+    "rank": 1,
+    "top_chunk": "NVIDIA fiscal 2025 10-K,  | Change - Research and development expenses: 12,914, 8,675, 4,239, 49%"
+  },
+  {
+    "id": "nvda-04",
+    "company": "nvda",
+    "question": "What was NVIDIA's gross margin in fiscal 2025?",
+    "expected": [
+      "75.0%"
+    ],
+    "type": "income_statement",
+    "rank": 1,
+    "top_chunk": "NVIDIA fiscal 2025 10-K, ($ in millions, except per share data) | Gross margin: fiscal year ended Jan 26, 2025: 75.0%; fiscal year ended Jan 28, 2024: 72.7%"
+  },
+  {
+    "id": "nvda-05",
+    "company": "nvda",
+    "question": "How much revenue came from the Data Center market platform?",
+    "expected": [
+      "115,186"
+    ],
+    "type": "segment_table",
+    "rank": 2,
+    "top_chunk": "NVIDIA fiscal 2025 10-K, (In millions) | Revenue by End Market - Compute: fiscal year ended Jan 26, 2025: $102,196 million; fiscal year ended Jan 28, 2024: $38,950 million; fiscal year ended Jan 29, 2023: $11,317 million"
+  },
+  {
+    "id": "nvda-06",
+    "company": "nvda",
+    "question": "How much revenue came from Gaming?",
+    "expected": [
+      "11,350"
+    ],
+    "type": "segment_table",
+    "rank": 1,
+    "top_chunk": "NVIDIA fiscal 2025 10-K, (In millions) | Revenue by End Market - Gaming: fiscal year ended Jan 26, 2025: $11,350 million; fiscal year ended Jan 28, 2024: $10,447 million; fiscal year ended Jan 29, 2023: $9,067 million"
+  },
+  {
+    "id": "nvda-07",
+    "company": "nvda",
+    "question": "How much revenue came from Professional Visualization?",
+    "expected": [
+      "1,878"
+    ],
+    "type": "segment_table",
+    "rank": 1,
+    "top_chunk": "NVIDIA fiscal 2025 10-K, (In millions) | Revenue by End Market - Professional Visualization: fiscal year ended Jan 26, 2025: $1,878 million; fiscal year ended Jan 28, 2024: $1,553 million; fiscal year ended Jan 29, 2023: $1,544 million"
+  },
+  {
+    "id": "nvda-08",
+    "company": "nvda",
+    "question": "How much revenue came from Automotive?",
+    "expected": [
+      "1,694"
+    ],
+    "type": "segment_table",
+    "rank": 1,
+    "top_chunk": "NVIDIA fiscal 2025 10-K, (In millions) | Revenue by End Market - Automotive: fiscal year ended Jan 26, 2025: $1,694 million; fiscal year ended Jan 28, 2024: $1,091 million; fiscal year ended Jan 29, 2023: $903 million"
+  },
+  {
+    "id": "nvda-09",
+    "company": "nvda",
+    "question": "How many employees does NVIDIA have?",
+    "expected": [
+      "36,000"
+    ],
+    "type": "text",
+    "rank": 1,
+    "top_chunk": "We continue to have a strong presence on the Green500 list of the most energy-efficient systems\u2014we powered 8 of the top 10 most energy efficient systems, including the top supercomputer, on the November 2024 Green500 list. We launched our Earth-2 initiative to create a digital twin of the Earth on NVIDIA AI and NVIDIA Omniverse platforms. Earth-2 will enable scientists, companies, and policy maker"
+  },
+  {
+    "id": "nvda-10",
+    "company": "nvda",
+    "question": "What does NVIDIA say about export controls affecting its business?",
+    "expected": [
+      "export control"
+    ],
+    "type": "text",
+    "rank": 1,
+    "top_chunk": "For example, the USG has already imposed conditions to limit the ability of foreign firms to create and offer as a service large-scale GPU clusters, for example by imposing license conditions on the use of products to be exported to certain countries, and may impose additional conditions such as requiring chip tracking and throttling mechanisms that could disable or impair GPUs if certain events, "
+  },
+  {
+    "id": "nvda-11",
+    "company": "nvda",
+    "question": "Where is NVIDIA headquartered?",
+    "expected": [
+      "Santa Clara"
+    ],
+    "type": "text",
+    "rank": 1,
+    "top_chunk": "In addition, generative AI is expanding the market for our workstation-class GPUs, as more enterprise customers develop and deploy AI applications with their data on-premises. Headquartered in Santa Clara, California, NVIDIA was incorporated in California in April 1993 and reincorporated in Delaware in April 1998. Our Businesses \n We report our business results in two segments. The Compute & Netwo"
+  },
+  {
+    "id": "nvda-12",
+    "company": "nvda",
+    "question": "When did NVIDIA's fiscal year 2025 end?",
+    "expected": [
+      "January 26, 2025"
+    ],
+    "type": "text",
+    "rank": null,
+    "top_chunk": "NVIDIA fiscal 2025 10-K, (In millions) | Balance at end of period: fiscal year ended Jan 26, 2025: $1,290 million; fiscal year ended Jan 28, 2024: $306 million; fiscal year ended Jan 29, 2023: $82 million"
+  },
+  {
+    "id": "aapl-13",
+    "company": "aapl",
+    "question": "What were Apple's total net sales for fiscal 2024?",
+    "expected": [
+      "391,035"
+    ],
+    "type": "income_statement",
+    "rank": 1,
+    "top_chunk": "Apple fiscal 2024 10-K, Consolidated Statements Of Operations, Years ended, Net sales: | Total net sales: fiscal 2024: $391,035 million; fiscal 2023: $383,285 million; fiscal 2022: $394,328 million"
+  },
+  {
+    "id": "aapl-14",
+    "company": "aapl",
+    "question": "What was Apple's net income for fiscal 2024?",
+    "expected": [
+      "93,736"
+    ],
+    "type": "income_statement",
+    "rank": 1,
+    "top_chunk": "Apple fiscal 2024 10-K, Consolidated Statements Of Comprehensive Income, (In millions), Years ended | Net income: fiscal 2024: $93,736 million; fiscal 2023: $96,995 million; fiscal 2022: $99,803 million"
+  },
+  {
+    "id": "aapl-15",
+    "company": "aapl",
+    "question": "How much did Apple spend on research and development in fiscal 2024?",
+    "expected": [
+      "31,370"
+    ],
+    "type": "income_statement",
+    "rank": 1,
+    "top_chunk": "Apple fiscal 2024 10-K, Operating Expenses, Operating expenses for 2024, 2023 and 2022 were as follows (dollars in millions): | Research and development: fiscal 2024: $31,370 million; change: 5%; fiscal 2023: $29,915 million; change: 14%; fiscal 2022: $26,251 million"
+  },
+  {
+    "id": "aapl-16",
+    "company": "aapl",
+    "question": "What were iPhone net sales in fiscal 2024?",
+    "expected": [
+      "201,183"
+    ],
+    "type": "segment_table",
+    "rank": 3,
+    "top_chunk": "Apple fiscal 2024 10-K, Consolidated Statements Of Operations, Years ended, Net sales: | Total net sales: fiscal 2024: $391,035 million; fiscal 2023: $383,285 million; fiscal 2022: $394,328 million"
+  },
+  {
+    "id": "aapl-17",
+    "company": "aapl",
+    "question": "What were Mac net sales in fiscal 2024?",
+    "expected": [
+      "29,984"
+    ],
+    "type": "segment_table",
+    "rank": 1,
+    "top_chunk": "Apple fiscal 2024 10-K, Net sales disaggregated by significant products and services for 2024, 2023 and 2022 were as follows (in millions): | Mac: fiscal 2024: $29,984 million; fiscal 2023: $29,357 million; fiscal 2022: $40,177 million"
+  },
+  {
+    "id": "aapl-18",
+    "company": "aapl",
+    "question": "What were iPad net sales in fiscal 2024?",
+    "expected": [
+      "26,694"
+    ],
+    "type": "segment_table",
+    "rank": 1,
+    "top_chunk": "Apple fiscal 2024 10-K, Products and Services Performance, The following table shows net sales by category for 2024, 2023 and 2022 (dollars in millions): | iPad: fiscal 2024: $26,694 million; change: (6)%; fiscal 2023: $28,300 million; change: (3)%; fiscal 2022: $29,292 million"
+  },
+  {
+    "id": "aapl-19",
+    "company": "aapl",
+    "question": "What were Wearables, Home and Accessories net sales in fiscal 2024?",
+    "expected": [
+      "37,005"
+    ],
+    "type": "segment_table",
+    "rank": 1,
+    "top_chunk": "Apple fiscal 2024 10-K, Products and Services Performance, The following table shows net sales by category for 2024, 2023 and 2022 (dollars in millions): | Wearables, Home and Accessories: fiscal 2024: $37,005 million; change: (7)%; fiscal 2023: $39,845 million; change: (3)%; fiscal 2022: $41,241 million"
+  },
+  {
+    "id": "aapl-20",
+    "company": "aapl",
+    "question": "How much revenue did Services bring in for fiscal 2024?",
+    "expected": [
+      "96,169"
+    ],
+    "type": "segment_table",
+    "rank": 1,
+    "top_chunk": "Apple fiscal 2024 10-K, Consolidated Statements Of Operations, Years ended, Net sales: | Services: fiscal 2024: $96,169 million; fiscal 2023: $85,200 million; fiscal 2022: $78,129 million"
+  },
+  {
+    "id": "aapl-21",
+    "company": "aapl",
+    "question": "How many full-time employees does Apple have?",
+    "expected": [
+      "164,000"
+    ],
+    "type": "text",
+    "rank": 1,
+    "top_chunk": "The Company works to create an inclusive, safe and supportive environment for all of its team members, so that its people can do the best work of their lives. As of September 28, 2024, the Company had approximately 164,000 full-time equivalent employees. Compensation and Benefits \n The Company believes that compensation should be competitive and equitable, and should enable employees to share in t"
+  },
+  {
+    "id": "aapl-22",
+    "company": "aapl",
+    "question": "Who manufactures Apple's products?",
+    "expected": [
+      "outsourcing partners"
+    ],
+    "type": "text",
+    "rank": 2,
+    "top_chunk": "Mac \n Mac \u00ae is the Company\u2019s line of personal computers based on its macOS \u00ae operating system. The Mac line includes laptops MacBook Air \u00ae and MacBook Pro \u00ae , as well as desktops iMac \u00ae , Mac mini \u00ae , Mac Studio \u00ae and Mac Pro \u00ae . iPad \n iPad \u00ae is the Company\u2019s line of multipurpose tablets based on its iPadOS \u00ae operating system. The iPad line includes iPad Pro \u00ae , iPad Air \u00ae , iPad and iPad mini \u00ae "
+  },
+  {
+    "id": "aapl-23",
+    "company": "aapl",
+    "question": "When does Apple's fiscal year end?",
+    "expected": [
+      "last Saturday of September"
+    ],
+    "type": "text",
+    "rank": 1,
+    "top_chunk": "Apple Inc. \n CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME \n (In millions) \n\n Years ended\n September 28,\n2022\n Other comprehensive income/(loss):\n Change in unrealized gains/losses on derivative instruments, net of tax:\n Change in unrealized gains/losses on marketable debt securities, net of tax:\n See accompanying Notes to Consolidated Financial Statements. Apple Inc. \n CONSOLIDATED BALANCE SHEE"
+  },
+  {
+    "id": "aapl-24",
+    "company": "aapl",
+    "question": "Where is Apple headquartered?",
+    "expected": [
+      "Cupertino"
+    ],
+    "type": "text",
+    "rank": 1,
+    "top_chunk": "Properties \n The Company\u2019s headquarters is located in Cupertino, California. As of September 28, 2024, the Company owned or leased facilities and land for corporate functions, R&D, data centers, retail and other purposes at locations throughout the U.S. and in various places outside the U.S. The Company believes its existing facilities and equipment, which are used by all reportable segments, are "
+  }
+]
