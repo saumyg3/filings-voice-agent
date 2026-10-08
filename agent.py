@@ -1,4 +1,6 @@
 """Step 5: the voice agent. Callers ask about a company's 10-K and it answers from Datasphere."""
+import time
+
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -45,9 +47,19 @@ class FilingsAgent(AgentBase):
             },
             "required": ["query", "company"],
         },
+        # spoken while the search runs, so the caller doesn't sit in silence
+        fillers={
+            "en-US": [
+                "Let me check the filing.",
+                "One sec, looking that up.",
+                "Pulling that from the 10-K.",
+            ]
+        },
     )
     def search_filings(self, args, raw_data):
+        start = time.perf_counter()
         chunks = retrieval.search(args["query"], args.get("company"))
+        print(f"[search_filings] {args.get('company')} | {args['query']!r} | {len(chunks)} chunks | {time.perf_counter() - start:.2f}s", flush=True)
         if not chunks:
             return FunctionResult("No matching passages found in the filing.")
         return FunctionResult("\n\n---\n\n".join(c["text"] for c in chunks))
